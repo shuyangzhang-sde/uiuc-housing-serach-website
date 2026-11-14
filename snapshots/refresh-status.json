@@ -1,0 +1,86 @@
+{
+  "completed_at": "2026-11-14T23:11:25+00:00",
+  "last_data_change_at": "2026-11-14T23:11:25+00:00",
+  "run_id": "54838f22-dc7e-4c45-a540-bb08b98b872b",
+  "schedule": {
+    "cron": "0 6 * * *",
+    "timezone": "America/Chicago"
+  },
+  "schema_version": 1,
+  "snapshot_date": "2026-11-14",
+  "snapshot_sha256": "ea4f14e02f7dfe86325cf7f1896d6ba2efbc44ec9dc879d6f15979507bbf85c5",
+  "sources": {
+    "bankier": {
+      "attempts": 1,
+      "company": "Bankier Apartments",
+      "last_attempt_at": "2026-11-14T23:07:13+00:00",
+      "last_successful_check_at": "2026-11-14T23:07:13+00:00",
+      "listing_count": 28,
+      "status": "success"
+    },
+    "green_street": {
+      "attempts": 1,
+      "company": "Green Street Realty",
+      "last_attempt_at": "2026-11-14T23:07:47+00:00",
+      "last_successful_check_at": "2026-11-14T23:07:47+00:00",
+      "listing_count": 505,
+      "status": "success"
+    },
+    "jsj": {
+      "attempts": 1,
+      "company": "JSJ Property Management",
+      "last_attempt_at": "2026-11-14T23:07:47+00:00",
+      "last_successful_check_at": "2026-11-14T23:07:47+00:00",
+      "listing_count": 82,
+      "status": "success"
+    },
+    "mhm": {
+      "attempts": 1,
+      "company": "MHM Properties",
+      "last_attempt_at": "2026-11-14T23:10:42+00:00",
+      "last_successful_check_at": "2026-11-14T23:10:42+00:00",
+      "listing_count": 37,
+      "status": "success"
+    },
+    "octave": {
+      "attempts": 1,
+      "company": "Octave",
+      "last_attempt_at": "2026-11-14T23:10:43+00:00",
+      "last_successful_check_at": "2026-11-14T23:10:43+00:00",
+      "listing_count": 11,
+      "status": "success"
+    },
+    "roland": {
+      "attempts": 1,
+      "company": "Roland Realty",
+      "last_attempt_at": "2026-11-14T23:11:14+00:00",
+      "last_successful_check_at": "2026-11-14T23:11:14+00:00",
+      "listing_count": 102,
+      "status": "success"
+    },
+    "seven07": {
+      "attempts": 1,
+      "company": "Seven07",
+      "last_attempt_at": "2026-11-14T23:11:14+00:00",
+      "last_successful_check_at": "2026-11-14T23:11:14+00:00",
+      "listing_count": 12,
+      "status": "success"
+    },
+    "smile": {
+      "attempts": 1,
+      "company": "Smile Student Living",
+      "last_attempt_at": "2026-11-14T23:11:15+00:00",
+      "last_successful_check_at": "2026-11-14T23:11:15+00:00",
+      "listing_count": 136,
+      "status": "success"
+    },
+    "universities_group": {
+      "attempts": 1,
+      "company": "Universities Group",
+      "last_attempt_at": "2026-11-14T23:11:25+00:00",
+      "last_successful_check_at": "2026-11-14T23:11:25+00:00",
+      "listing_count": 393,
+      "status": "success"
+    }
+  }
+}

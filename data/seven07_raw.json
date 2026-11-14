@@ -9,8 +9,8 @@
     "beds": "1",
     "baths": "1",
     "sqft": "492",
-    "price_total": "2015",
-    "price_per_bed": "2015",
+    "price_total": "2025",
+    "price_per_bed": "2025",
     "availability": "Leased",
     "url": "https://liveseven07.com/floorplan/1br-1ba/",
     "photo_url": "https://liveseven07.com/wp-content/uploads/sites/37/2024/12/68c8496e3b99c9.23972859513-1-1024x690.jpg",
@@ -19,7 +19,7 @@
     "description": "",
     "amenities": "",
     "lease_dates": "08/16/2026 - 07/27/2027",
-    "text": "707 S 4th St., Champaign. 1BR/1BA: 1 bed, 1 bath, 492 sqft. Price: $2015/bed per month, $2015/month total. Availability: Leased. Company: Seven07. Link: https://liveseven07.com/floorplan/1br-1ba/"
+    "text": "707 S 4th St., Champaign. 1BR/1BA: 1 bed, 1 bath, 492 sqft. Price: $2025/bed per month, $2025/month total. Availability: Leased. Company: Seven07. Link: https://liveseven07.com/floorplan/1br-1ba/"
   },
   {
     "company": "Seven07",
@@ -31,8 +31,8 @@
     "beds": "2",
     "baths": "2",
     "sqft": "696",
-    "price_total": "2698",
-    "price_per_bed": "1349",
+    "price_total": "2720",
+    "price_per_bed": "1360",
     "availability": "Leased",
     "url": "https://liveseven07.com/floorplan/2br-2ba-type-1/",
     "photo_url": "https://liveseven07.com/wp-content/uploads/sites/37/2024/12/66ccb579d44cc7.99860222837-1-1024x688.jpg",
@@ -41,7 +41,7 @@
     "description": "",
     "amenities": "",
     "lease_dates": "08/16/2026 - 07/27/2027",
-    "text": "707 S 4th St., Champaign. 2BR/2BA \u2013 Type 1: 2 bed, 2 bath, 696 sqft. Price: $1349/bed per month, $2698/month total. Availability: Leased. Company: Seven07. Link: https://liveseven07.com/floorplan/2br-2ba-type-1/"
+    "text": "707 S 4th St., Champaign. 2BR/2BA \u2013 Type 1: 2 bed, 2 bath, 696 sqft. Price: $1360/bed per month, $2720/month total. Availability: Leased. Company: Seven07. Link: https://liveseven07.com/floorplan/2br-2ba-type-1/"
   },
   {
     "company": "Seven07",
@@ -53,8 +53,8 @@
     "beds": "2",
     "baths": "2",
     "sqft": "788",
-    "price_total": "2698",
-    "price_per_bed": "1349",
+    "price_total": "2720",
+    "price_per_bed": "1360",
     "availability": "Available now (1 unit left)",
     "url": "https://liveseven07.com/floorplan/2br-2ba-type-2/",
     "photo_url": "https://liveseven07.com/wp-content/uploads/sites/37/2024/12/68c84926a35455.97846447911-2-1024x687.jpg",
@@ -63,7 +63,7 @@
     "description": "",
     "amenities": "",
     "lease_dates": "08/16/2026 - 07/27/2027",
-    "text": "707 S 4th St., Champaign. 2BR/2BA \u2013 Type 2: 2 bed, 2 bath, 788 sqft. Price: $1349/bed per month, $2698/month total. Availability: Available now (1 unit left). Company: Seven07. Link: https://liveseven07.com/floorplan/2br-2ba-type-2/"
+    "text": "707 S 4th St., Champaign. 2BR/2BA \u2013 Type 2: 2 bed, 2 bath, 788 sqft. Price: $1360/bed per month, $2720/month total. Availability: Available now (1 unit left). Company: Seven07. Link: https://liveseven07.com/floorplan/2br-2ba-type-2/"
   },
   {
     "company": "Seven07",
@@ -75,8 +75,8 @@
     "beds": "2",
     "baths": "2",
     "sqft": "770",
-    "price_total": "2798",
-    "price_per_bed": "1399",
+    "price_total": "2818",
+    "price_per_bed": "1409",
     "availability": "Leased",
     "url": "https://liveseven07.com/floorplan/2br-2ba-type-3/",
     "photo_url": "https://liveseven07.com/wp-content/uploads/sites/37/2024/12/68c8489ab552a2.80654080326-2-1024x689.jpg",
@@ -85,7 +85,7 @@
     "description": "",
     "amenities": "",
     "lease_dates": "08/16/2026 - 07/27/2027",
-    "text": "707 S 4th St., Champaign. 2BR/2BA \u2013 Type 3: 2 bed, 2 bath, 770 sqft. Price: $1399/bed per month, $2798/month total. Availability: Leased. Company: Seven07. Link: https://liveseven07.com/floorplan/2br-2ba-type-3/"
+    "text": "707 S 4th St., Champaign. 2BR/2BA \u2013 Type 3: 2 bed, 2 bath, 770 sqft. Price: $1409/bed per month, $2818/month total. Availability: Leased. Company: Seven07. Link: https://liveseven07.com/floorplan/2br-2ba-type-3/"
   },
   {
     "company": "Seven07",
@@ -97,8 +97,8 @@
     "beds": "2",
     "baths": "2",
     "sqft": "888",
-    "price_total": "2838",
-    "price_per_bed": "1419",
+    "price_total": "2878",
+    "price_per_bed": "1439",
     "availability": "Available now (2 units left)",
     "url": "https://liveseven07.com/floorplan/2br-2ba-type-4/",
     "photo_url": "https://liveseven07.com/wp-content/uploads/sites/37/2024/12/68c848397585c0.83883032953-2-1024x686.jpg",
@@ -107,7 +107,7 @@
     "description": "",
     "amenities": "",
     "lease_dates": "08/15/2026 - 07/27/2027",
-    "text": "707 S 4th St., Champaign. 2BR/2BA \u2013 Type 4: 2 bed, 2 bath, 888 sqft. Price: $1419/bed per month, $2838/month total. Availability: Available now (2 units left). Company: Seven07. Link: https://liveseven07.com/floorplan/2br-2ba-type-4/"
+    "text": "707 S 4th St., Champaign. 2BR/2BA \u2013 Type 4: 2 bed, 2 bath, 888 sqft. Price: $1439/bed per month, $2878/month total. Availability: Available now (2 units left). Company: Seven07. Link: https://liveseven07.com/floorplan/2br-2ba-type-4/"
   },
   {
     "company": "Seven07",
@@ -119,8 +119,8 @@
     "beds": "3",
     "baths": "3",
     "sqft": "1149",
-    "price_total": "4017",
-    "price_per_bed": "1339",
+    "price_total": "4197",
+    "price_per_bed": "1399",
     "availability": "Leased",
     "url": "https://liveseven07.com/floorplan/3br-3ba/",
     "photo_url": "https://liveseven07.com/wp-content/uploads/sites/37/2024/10/68c84a407381c3.95684970640-1-1024x683.jpg",
@@ -129,7 +129,7 @@
     "description": "",
     "amenities": "",
     "lease_dates": "08/16/2026 - 07/27/2027",
-    "text": "707 S 4th St., Champaign. 3BR/3BA: 3 bed, 3 bath, 1149 sqft. Price: $1339/bed per month, $4017/month total. Availability: Leased. Company: Seven07. Link: https://liveseven07.com/floorplan/3br-3ba/"
+    "text": "707 S 4th St., Champaign. 3BR/3BA: 3 bed, 3 bath, 1149 sqft. Price: $1399/bed per month, $4197/month total. Availability: Leased. Company: Seven07. Link: https://liveseven07.com/floorplan/3br-3ba/"
   },
   {
     "company": "Seven07",
@@ -141,8 +141,8 @@
     "beds": "4",
     "baths": "2",
     "sqft": "1228",
-    "price_total": "4260",
-    "price_per_bed": "1065",
+    "price_total": "4396",
+    "price_per_bed": "1099",
     "availability": "Leased",
     "url": "https://liveseven07.com/floorplan/4br-2ba/",
     "photo_url": "https://liveseven07.com/wp-content/uploads/sites/37/2024/12/6a987540c29de6.01781185188-1024x690.jpg",
@@ -151,7 +151,7 @@
     "description": "",
     "amenities": "",
     "lease_dates": "08/15/2026 - 07/27/2027",
-    "text": "707 S 4th St., Champaign. 4BR/2BA: 4 bed, 2 bath, 1228 sqft. Price: $1065/bed per month, $4260/month total. Availability: Leased. Company: Seven07. Link: https://liveseven07.com/floorplan/4br-2ba/"
+    "text": "707 S 4th St., Champaign. 4BR/2BA: 4 bed, 2 bath, 1228 sqft. Price: $1099/bed per month, $4396/month total. Availability: Leased. Company: Seven07. Link: https://liveseven07.com/floorplan/4br-2ba/"
   },
   {
     "company": "Seven07",
@@ -163,9 +163,9 @@
     "beds": "4",
     "baths": "4",
     "sqft": "1228",
-    "price_total": "4676",
-    "price_per_bed": "1169",
-    "availability": "Available now (2 units left)",
+    "price_total": "5000",
+    "price_per_bed": "1250",
+    "availability": "Available now (1 unit left)",
     "url": "https://liveseven07.com/floorplan/4br-4ba-type-1/",
     "photo_url": "https://liveseven07.com/wp-content/uploads/sites/37/2024/12/5855_1141112_5d81421e037602.36257992117-1.png",
     "availability_summary": "Available now",
@@ -173,7 +173,7 @@
     "description": "",
     "amenities": "",
     "lease_dates": "08/15/2026 - 07/27/2027",
-    "text": "707 S 4th St., Champaign. 4BR/4BA \u2013 Type 1: 4 bed, 4 bath, 1228 sqft. Price: $1169/bed per month, $4676/month total. Availability: Available now (2 units left). Company: Seven07. Link: https://liveseven07.com/floorplan/4br-4ba-type-1/"
+    "text": "707 S 4th St., Champaign. 4BR/4BA \u2013 Type 1: 4 bed, 4 bath, 1228 sqft. Price: $1250/bed per month, $5000/month total. Availability: Available now (1 unit left). Company: Seven07. Link: https://liveseven07.com/floorplan/4br-4ba-type-1/"
   },
   {
     "company": "Seven07",
@@ -185,9 +185,9 @@
     "beds": "4",
     "baths": "4",
     "sqft": "1228",
-    "price_total": "4500",
-    "price_per_bed": "1125",
-    "availability": "Available July 28, 2027 (3 units left)",
+    "price_total": "4860",
+    "price_per_bed": "1215",
+    "availability": "Available July 28, 2027 (1 unit left)",
     "url": "https://liveseven07.com/floorplan/4br-4ba-type-2/",
     "photo_url": "https://liveseven07.com/wp-content/uploads/sites/37/2024/12/68c847dc4816c9.53104729771-1-1024x682.jpg",
     "availability_summary": "Available July 2027",
@@ -195,7 +195,7 @@
     "description": "",
     "amenities": "",
     "lease_dates": "08/15/2026 - 07/27/2027",
-    "text": "707 S 4th St., Champaign. 4BR/4BA \u2013 Type 2: 4 bed, 4 bath, 1228 sqft. Price: $1125/bed per month, $4500/month total. Availability: Available July 28, 2027 (3 units left). Company: Seven07. Link: https://liveseven07.com/floorplan/4br-4ba-type-2/"
+    "text": "707 S 4th St., Champaign. 4BR/4BA \u2013 Type 2: 4 bed, 4 bath, 1228 sqft. Price: $1215/bed per month, $4860/month total. Availability: Available July 28, 2027 (1 unit left). Company: Seven07. Link: https://liveseven07.com/floorplan/4br-4ba-type-2/"
   },
   {
     "company": "Seven07",
@@ -207,8 +207,8 @@
     "beds": "4",
     "baths": "4",
     "sqft": "1228",
-    "price_total": "4636",
-    "price_per_bed": "1159",
+    "price_total": "4820",
+    "price_per_bed": "1205",
     "availability": "Leased",
     "url": "https://liveseven07.com/floorplan/4br-4ba-type-3/",
     "photo_url": "https://liveseven07.com/wp-content/uploads/sites/37/2024/12/5859_1141112_5c2cdb9fb61b14.89466228465-1.png",
@@ -217,7 +217,7 @@
     "description": "",
     "amenities": "",
     "lease_dates": "08/15/2026 - 07/27/2027",
-    "text": "707 S 4th St., Champaign. 4BR/4BA \u2013 Type 3: 4 bed, 4 bath, 1228 sqft. Price: $1159/bed per month, $4636/month total. Availability: Leased. Company: Seven07. Link: https://liveseven07.com/floorplan/4br-4ba-type-3/"
+    "text": "707 S 4th St., Champaign. 4BR/4BA \u2013 Type 3: 4 bed, 4 bath, 1228 sqft. Price: $1205/bed per month, $4820/month total. Availability: Leased. Company: Seven07. Link: https://liveseven07.com/floorplan/4br-4ba-type-3/"
   },
   {
     "company": "Seven07",
@@ -229,8 +229,8 @@
     "beds": "0",
     "baths": "1",
     "sqft": "539",
-    "price_total": "1939",
-    "price_per_bed": "1939",
+    "price_total": "1990",
+    "price_per_bed": "1990",
     "availability": "Leased",
     "url": "https://liveseven07.com/floorplan/studio-type-1/",
     "photo_url": "https://liveseven07.com/wp-content/uploads/sites/37/2024/12/68c8460f056496.26854534372-1-1024x690.jpg",
@@ -239,7 +239,7 @@
     "description": "",
     "amenities": "",
     "lease_dates": "08/16/2026 - 07/27/2027",
-    "text": "707 S 4th St., Champaign. Studio \u2013 Type 1: 0 bed, 1 bath, 539 sqft. Price: $1939/bed per month, $1939/month total. Availability: Leased. Company: Seven07. Link: https://liveseven07.com/floorplan/studio-type-1/"
+    "text": "707 S 4th St., Champaign. Studio \u2013 Type 1: 0 bed, 1 bath, 539 sqft. Price: $1990/bed per month, $1990/month total. Availability: Leased. Company: Seven07. Link: https://liveseven07.com/floorplan/studio-type-1/"
   },
   {
     "company": "Seven07",
@@ -251,8 +251,8 @@
     "beds": "0",
     "baths": "1",
     "sqft": "422",
-    "price_total": "1649",
-    "price_per_bed": "1649",
+    "price_total": "1720",
+    "price_per_bed": "1720",
     "availability": "Leased",
     "url": "https://liveseven07.com/floorplan/studio-type-2/",
     "photo_url": "https://liveseven07.com/wp-content/uploads/sites/37/2024/12/68c8469dd24ea9.72997414585-1-1024x689.jpg",
@@ -261,6 +261,6 @@
     "description": "",
     "amenities": "",
     "lease_dates": "08/16/2026 - 07/27/2027",
-    "text": "707 S 4th St., Champaign. Studio \u2013 Type 2: 0 bed, 1 bath, 422 sqft. Price: $1649/bed per month, $1649/month total. Availability: Leased. Company: Seven07. Link: https://liveseven07.com/floorplan/studio-type-2/"
+    "text": "707 S 4th St., Champaign. Studio \u2013 Type 2: 0 bed, 1 bath, 422 sqft. Price: $1720/bed per month, $1720/month total. Availability: Leased. Company: Seven07. Link: https://liveseven07.com/floorplan/studio-type-2/"
   }
 ]
