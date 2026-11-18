@@ -20,7 +20,7 @@
 import glob
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 
 DATA_DIR    = "data"
 ARCHIVE_DIR = "data/raw_archive"
@@ -51,6 +51,19 @@ def save_scrape(data: list[dict], slug: str, failed: int) -> None:
     canonical = f"{DATA_DIR}/{slug}_raw.json"
     with open(canonical, "w") as f:
         json.dump(data, f, indent=2)
+
+    # The automated runner checks this receipt, not just the process exit code.
+    # Partial scraper runs intentionally exit successfully for manual recovery.
+    if os.environ.get("REFRESH_RUN_ID"):
+        receipt = {
+            "run_id": os.environ["REFRESH_RUN_ID"],
+            "checked_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+            "complete": complete,
+            "failed_properties": failed,
+            "listing_count": len(data),
+        }
+        with open(f"{DATA_DIR}/{slug}_scrape_status.json", "w") as f:
+            json.dump(receipt, f, indent=2)
 
     # A complete run makes earlier same-day partial archives obsolete.
     removed = []

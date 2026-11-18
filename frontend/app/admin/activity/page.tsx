@@ -60,7 +60,7 @@ const EVENT_LABELS: Record<string, string> = {
   map_search: "Map searches",
   card_view: "Card views",
   table_view: "Archived table views",
-  listing_view: "Listings viewed",
+  listing_view: "Listing detail opens",
 }
 
 export default function AdminActivityPage() {
@@ -354,6 +354,11 @@ function FeatureCard({
       {userCount != null && (
         <div className="text-[11px] text-neutral-400 mt-0.5">
           {userCount} {userCount === 1 ? "person" : "people"}
+        </div>
+      )}
+      {type === "listing_view" && (
+        <div className="mt-1 max-w-48 text-[11px] text-neutral-500">
+          Number of times users opened a listing’s details from the map or card page.
         </div>
       )}
     </div>

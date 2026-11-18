@@ -1,0 +1,58 @@
+name: Web, mobile, and shared packages
+
+on:
+  push:
+    paths:
+      - 'frontend/**'
+      - 'mobile/**'
+      - 'tests/mobile/**'
+      - 'tests/test_mobile_api*.py'
+      - 'backend/**'
+      - 'packages/**'
+      - 'tests/shared/**'
+      - 'package*.json'
+      - 'tsconfig.shared.json'
+      - '.github/workflows/web-shared.yml'
+  pull_request:
+    paths:
+      - 'frontend/**'
+      - 'mobile/**'
+      - 'tests/mobile/**'
+      - 'tests/test_mobile_api*.py'
+      - 'backend/**'
+      - 'packages/**'
+      - 'tests/shared/**'
+      - 'package*.json'
+      - 'tsconfig.shared.json'
+      - '.github/workflows/web-shared.yml'
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    env:
+      # Build-time placeholders only; tests use fixtures, not production accounts.
+      NEXT_PUBLIC_SUPABASE_URL: https://example.supabase.co
+      NEXT_PUBLIC_SUPABASE_ANON_KEY: build-placeholder
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci
+      - run: npm run test:shared
+      - run: npm run test:mobile
+      - run: npm run typecheck
+      - run: npm run build
+      - run: npm run export:check --workspace=@illirent/mobile
+      # Full lint currently has pre-existing errors; see frontend/README.md.
+
+  backend-auth:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install fastapi==0.136.3 PyJWT==2.9.0 cryptography==46.0.5 httpx python-dotenv
+      - run: python -m unittest discover -s tests -p 'test_mobile_api*.py' -v

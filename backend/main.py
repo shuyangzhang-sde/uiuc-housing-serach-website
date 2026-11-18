@@ -1,11 +1,13 @@
 import os
 import sqlite3
 import jwt
-from datetime import datetime, timezone
+from pathlib import Path
 from fastapi import FastAPI, Depends, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
 from config import SNAPSHOTS_DIR
+from pipeline.freshness import read_refresh
+from backend.telemetry import MobileEvent, record_event
 
 
 app = FastAPI()
@@ -26,7 +28,7 @@ def verify_token(credentials: HTTPAuthorizationCredentials = Depends(_security))
         raise HTTPException(status_code=401, detail="Missing token")
     try:
         signing_key = _jwks_client.get_signing_key_from_jwt(credentials.credentials)
-        jwt.decode(
+        return jwt.decode(
             credentials.credentials,
             signing_key.key,
             algorithms=["ES256"],
@@ -34,6 +36,11 @@ def verify_token(credentials: HTTPAuthorizationCredentials = Depends(_security))
         )
     except jwt.PyJWTError as e:
         raise HTTPException(status_code=401, detail=f"Invalid or expired token: {e}")
+
+
+@app.post("/api/events")
+def mobile_event(event: MobileEvent, claims=Depends(verify_token), credentials=Depends(_security)):
+    return record_event(event, claims, credentials.credentials if credentials else None, _SUPABASE_URL)
 
 _raw = os.getenv("ALLOWED_ORIGINS", "*")
 _origins = [o.strip() for o in _raw.split(",")] if _raw != "*" else ["*"]
@@ -49,32 +56,27 @@ app.add_middleware(
 @app.get("/api/status")
 def status():
     latest_txt = os.path.join(SNAPSHOTS_DIR, "latest.txt")
+    date_str = Path(latest_txt).read_text().strip() if os.path.exists(latest_txt) else None
+    manifest, freshness = read_refresh(Path(SNAPSHOTS_DIR), date_str)
+    payload = {
+        "last_scraped": date_str,
+        # Compatibility field now means a real source check, never a deploy mtime.
+        "last_scraped_at": freshness["last_successful_check_at"],
+        "listing_count": None, "property_count": None,
+        "refresh": manifest, "freshness": freshness,
+    }
     if not os.path.exists(latest_txt):
-        return {"last_scraped": None, "last_scraped_at": None, "listing_count": None, "property_count": None}
-    date_str = open(latest_txt).read().strip()
+        return payload
     db_path = os.path.join(SNAPSHOTS_DIR, f"listings_{date_str}.db")
     if not os.path.exists(db_path):
-        return {
-            "last_scraped": date_str,
-            "last_scraped_at": _file_timestamp(latest_txt),
-            "listing_count": None,
-            "property_count": None,
-        }
+        return payload
     con = sqlite3.connect(db_path)
     row = con.execute(
         "SELECT COUNT(*) as listing_count, COUNT(DISTINCT address) as property_count FROM listings"
     ).fetchone()
     con.close()
-    return {
-        "last_scraped": date_str,
-        "last_scraped_at": _file_timestamp(db_path),
-        "listing_count": row[0],
-        "property_count": row[1],
-    }
-
-
-def _file_timestamp(path: str) -> str:
-    return datetime.fromtimestamp(os.path.getmtime(path), timezone.utc).isoformat(timespec="minutes")
+    payload.update(listing_count=row[0], property_count=row[1])
+    return payload
 
 
 # Allowed ORDER BY clauses for /api/listings, keyed by the `sort` query param.

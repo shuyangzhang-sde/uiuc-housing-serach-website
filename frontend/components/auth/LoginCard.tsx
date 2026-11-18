@@ -8,22 +8,14 @@
 import { useState } from "react"
 import { createClient } from "@/lib/supabase/client"
 import { logEvent } from "@/lib/logEvent"
+import { ALLOWED_DOMAINS_HINT, DISALLOWED_DOMAIN_ERROR, isAllowedEmailDomain } from "@illirent/core"
 
 // Open registration (design-docs/post-launch/open-registration.md): the waitlist
 // funnel is retired from the UI. Anyone with an allowed-domain email can sign in
 // (or one-click via Google). The real gate is the Supabase "Before User Created"
 // hook (restrict_signup_to_allowed_domains); every check here is UX only.
 //
-// This list mirrors that SQL function — keep the two in sync.
-const ALLOWED_EMAIL_DOMAINS = ["gmail.com", "outlook.com"]
-const EDU_DOMAIN_RE = /\.edu(\.[a-z]{2})?$/
-const ALLOWED_DOMAINS_HINT = "Works with Gmail, Outlook or any school (.edu) address."
-const DISALLOWED_DOMAIN_ERROR = "Use a Gmail, Outlook.com, or school (.edu) email address."
-
-function isAllowedEmailDomain(email: string) {
-  const domain = email.split("@")[1] ?? ""
-  return ALLOWED_EMAIL_DOMAINS.includes(domain) || EDU_DOMAIN_RE.test(domain)
-}
+// Shared domain validation mirrors that SQL function — keep them in sync.
 
 export function LoginCard({ onSuccess }: { onSuccess: () => void }) {
   const [emailInput, setEmailInput] = useState("")

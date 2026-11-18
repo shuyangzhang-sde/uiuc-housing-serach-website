@@ -49,6 +49,7 @@ Local ports:
 
 - backend: `http://localhost:3101`
 - frontend: `http://localhost:3102`
+- Expo Metro: `http://localhost:3103`
 
 ## Tech Stack
 
@@ -94,12 +95,14 @@ uiuc-housing-assistant/
 
 First setup:
 
+JavaScript workspaces use Node 24 LTS (`.nvmrc`); Node 22.13+ is also supported.
+
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 playwright install chromium
-cd frontend && npm install && cd ..
+npm ci
 ```
 
 Env:
@@ -144,12 +147,27 @@ curl "http://localhost:3102/api/listings?page=1&page_size=1"
 .venv/bin/python -m py_compile backend/main.py pipeline/geocode.py pipeline/normalize.py config.py
 ```
 
+## Mobile App
+
+The Expo iOS/Android foundation shares contracts and API logic with the website.
+See [mobile setup](mobile/README.md) for email login, secure sessions, local-device
+backend configuration, development builds, and checks.
+
 ## Data Pipeline
 
 Refresh data:
 
 ```bash
 source .venv/bin/activate
+.venv/bin/python -m pipeline.refresh
+```
+
+The managed refresh stages all nine sources, retries temporary failures, validates
+completeness and counts, and publishes an accepted dataset with real check
+timestamps. Failed candidates preserve the previous data. For individual scraper
+repairs, the underlying commands are:
+
+```bash
 .venv/bin/python scrapers/bankier.py
 .venv/bin/python scrapers/green_street.py --fresh
 .venv/bin/python scrapers/jsj.py
@@ -164,9 +182,16 @@ source .venv/bin/activate
 ```
 
 GitHub Actions can run the same refresh automatically via
-`.github/workflows/refresh-listings.yml`. It is scheduled for weekdays at
-8:15 AM Central Time. If the scraped data changes, the workflow commits the
-updated `data/` files and `snapshots/` files back to the repository.
+`.github/workflows/refresh-listings.yml`. It is scheduled every day at
+6:00 AM in `America/Chicago`, automatically accounting for daylight saving time.
+GitHub may start scheduled jobs late; a delayed job still runs the full pipeline.
+The workflow also supports manual runs from the Actions tab. Each successful check
+commits its receipt even if listing content has not changed, then verifies that
+production serves the accepted run. A separate monitor checks freshness every six
+hours. Operational emails require the Resend key and operator recipient in Actions
+secrets; independent scheduler-outage detection needs an external heartbeat monitor.
+See [Automated Refresh Reliability and Alerting](design-docs/automated-refresh-reliability.md)
+for incident findings, safeguards, and notification setup.
 
 Snapshot files:
 

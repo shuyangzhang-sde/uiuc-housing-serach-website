@@ -88,7 +88,7 @@ const QUAD_OUTLINE_LAYER: LineLayerSpecification = {
 }
 
 function priceLabel(l: Listing): string {
-  const v = l.beds <= 1 ? l.price_total_low : l.price_per_bed_low
+  const v = (l.beds ?? 0) <= 1 ? l.price_total_low : l.price_per_bed_low
   return v != null ? `$${v.toLocaleString()}` : "—"
 }
 
@@ -288,7 +288,7 @@ const MapView = forwardRef<MapViewHandle, Props>(function MapView({ listings, fi
                 <div className="text-xs font-medium text-neutral-500 leading-snug">{popup.price_note}</div>
               ) : (
                 <div className={`${heroDisplay.className} text-base font-normal leading-none text-neutral-900`}>
-                  {popup.beds <= 1
+                  {(popup.beds ?? 0) <= 1
                     ? <>{priceLabel(popup)}<span className="font-normal text-neutral-400 text-xs">/mo</span></>
                     : <>{priceLabel(popup)}<span className="font-normal text-neutral-400 text-xs">/bed</span></>
                   }

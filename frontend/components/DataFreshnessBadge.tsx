@@ -1,24 +1,27 @@
 "use client"
 
 import { useEffect, useState } from "react"
-import { fetchStatus } from "@/lib/api"
+import { fetchStatus, type DataStatus } from "@/lib/api"
 
 const STATUS_REFRESH_MS = 5 * 60 * 1000
 
 export default function DataFreshnessBadge() {
-  const [lastUpdated, setLastUpdated] = useState<string | null>(null)
+  const [status, setStatus] = useState<DataStatus | null>(null)
+  const [unavailable, setUnavailable] = useState(false)
 
   useEffect(() => {
     let cancelled = false
 
     async function refreshStatus() {
       try {
-        const status = await fetchStatus()
+        const result = await fetchStatus()
         if (!cancelled) {
-          setLastUpdated(formatSnapshotDateTime(status.last_scraped_at) ?? formatSnapshotDate(status.last_scraped))
+          setStatus(result)
+          setUnavailable(false)
         }
       } catch {
-        // Keep the previous timestamp visible if a background refresh blips.
+        // A failed status check must not leave an old green freshness claim.
+        if (!cancelled) setUnavailable(true)
       }
     }
 
@@ -39,16 +42,26 @@ export default function DataFreshnessBadge() {
     }
   }, [])
 
-  if (!lastUpdated) return null
+  if (!status && !unavailable) return null
+
+  const checkedAt = status?.freshness?.last_successful_check_at ?? null
+  const lastChecked = formatSnapshotDateTime(checkedAt)
+  const stale = unavailable || status?.freshness?.state !== "fresh"
 
   return (
-    <div className="fixed right-4 top-3 z-[95] flex flex-col items-end leading-none print:hidden">
+    <div className="fixed bottom-4 right-4 z-[95] flex max-w-64 flex-col items-end rounded-lg bg-white/95 px-3 py-2 text-right leading-none shadow-sm lg:bottom-auto lg:top-3 lg:bg-transparent lg:p-0 lg:shadow-none print:hidden">
       <span className="text-[11px] font-bold text-ink-900/50">
-        Last updated
+        Last checked
       </span>
       <span className="mt-1 text-[13px] font-bold text-ink-900">
-        {lastUpdated}
+        {lastChecked ?? "Not verified"}
       </span>
+      <span className="mt-1 text-[10px] text-ink-900/60">Daily at 6 AM Chicago time</span>
+      {stale && (
+        <p role="status" className="mt-1 max-w-64 rounded bg-amber-50 px-2 py-1 text-[11px] leading-snug text-amber-900">
+          Data may be outdated. Confirm price and availability with the landlord.
+        </p>
+      )}
     </div>
   )
 }
@@ -63,16 +76,7 @@ function formatSnapshotDateTime(value: string | null): string | null {
     year: "numeric",
     hour: "numeric",
     minute: "2-digit",
+    timeZone: "America/Chicago",
+    timeZoneName: "short",
   }).format(date)
-}
-
-function formatSnapshotDate(value: string | null): string | null {
-  if (!value) return null
-  const [year, month, day] = value.split("-").map(Number)
-  if (!year || !month || !day) return value
-  return new Intl.DateTimeFormat("en-US", {
-    month: "short",
-    day: "numeric",
-    year: "numeric",
-  }).format(new Date(year, month - 1, day))
 }

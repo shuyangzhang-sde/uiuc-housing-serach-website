@@ -14,14 +14,8 @@ import { ListingSort } from "@/lib/api"
 // Keys must match SORT_ORDERS in backend/main.py. `short` is what the collapsed
 // chip shows: the full labels would render as "Sort: Price: low to high", whose
 // double colon reads badly and is wide enough to wrap the chip row.
-export const SORT_OPTIONS: { key: ListingSort; label: string; short: string }[] = [
-  { key: "beds",       label: "Beds",             short: "Beds" },
-  { key: "price_asc",  label: "Price: low to high", short: "Price ↑" },
-  { key: "price_desc", label: "Price: high to low", short: "Price ↓" },
-  { key: "company",    label: "Property manager",   short: "Manager" },
-]
-
-export const DEFAULT_SORT: ListingSort = "beds"
+import { SORT_OPTIONS, DEFAULT_SORT } from "@illirent/core"
+export { SORT_OPTIONS, DEFAULT_SORT } from "@illirent/core"
 
 export default function SortButton({ value, onChange }: {
   value: ListingSort

@@ -39,6 +39,10 @@ The repo intentionally uses the `310x` port range:
 - FastAPI backend: `http://localhost:3101`
 - Next.js frontend: `http://localhost:3102`
 
+Install JavaScript dependencies from the **repository root** with `npm ci`.
+The root `package-lock.json` is the only JavaScript lockfile; do not recreate a
+frontend-only lockfile. Existing `cd frontend && npm run dev` commands still work.
+
 Start the frontend:
 
 ```bash
@@ -76,3 +80,50 @@ The active map color UI supports:
 - user-edited custom colors based on the default palette
 
 Named alternate presets were removed from the product UI.
+
+
+## Shared workspace packages
+
+The website consumes source packages from `../packages/`:
+
+- `@illirent/core`: listing/filter/status contracts, defaults, availability helpers,
+  filter options, campus landmarks, and company metadata with platform-neutral logo keys.
+- `@illirent/api-client`: query serialization and configurable HTTP transport,
+  including cancellation, timeout/error handling, and response validation.
+- `@illirent/search-state`: React filter provider shared by Card and Map.
+- `@illirent/design-tokens`: palette CSS/TypeScript and font-family names.
+
+The existing `lib/api.ts`, utility modules, and `contexts/FiltersContext.tsx`
+remain compatibility adapters. Web calls still use same-origin Next.js API routes
+and cookie authentication. Supabase server clients and DOM/map exports remain web-only.
+A native client will configure an absolute API origin and an access-token getter.
+
+Run from the repository root:
+
+```bash
+npm ci
+npm run test:shared
+npm run typecheck
+npm run build
+npm run dev
+```
+
+Shared packages are TypeScript source exports, transpiled by Next.js. There is no
+separate package build step. Turbopack's root includes the repository so it can
+resolve workspace packages. React is a peer dependency of shared filter state.
+The shared tests include a real two-listing backend response fixture, transport
+checks, filter-state persistence, and CSS/TypeScript palette parity.
+
+### Vercel deployment
+
+Keep the Vercel Root Directory set to `frontend`. Its `vercel.json` installs from
+the repository root (`cd .. && npm ci`); the build command remains `npm run build`.
+In Vercel project settings, enable **Include source files outside of the Root
+Directory in the Build Step** so `packages/` and the root lockfile are available.
+If an existing project-level install override is present, align it with this
+command. The remote project settings have not been changed by this migration.
+No Railway or Python installation changes are needed.
+
+The `Web, mobile, and shared packages` GitHub workflow runs shared/mobile tests, typechecking,
+and a production build. Full lint remains a separate check because the current
+baseline has three errors and 18 warnings in existing web code.

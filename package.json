@@ -1,0 +1,36 @@
+{
+  "name": "illirent",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "mobile",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace=web",
+    "build": "npm run build --workspace=web",
+    "typecheck": "tsc --noEmit -p tsconfig.shared.json && npm run typecheck --workspace=web && npm run typecheck:mobile",
+    "lint": "npm run lint --workspace=web",
+    "test:shared": "tsx --tsconfig tsconfig.shared.json --test tests/shared/*.test.ts*",
+    "mobile": "npm run start --workspace=@illirent/mobile",
+    "mobile:android": "npm run android --workspace=@illirent/mobile",
+    "mobile:ios": "npm run ios --workspace=@illirent/mobile",
+    "test:mobile": "tsx --tsconfig tsconfig.shared.json --test tests/mobile/*.test.ts",
+    "typecheck:mobile": "npm run typecheck --workspace=@illirent/mobile"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-test-renderer": "^19",
+    "react-test-renderer": "19.2.4",
+    "tsx": "^4.20.0",
+    "typescript": "^5"
+  },
+  "overrides": {
+    "react-native": "0.86.3",
+    "react-native-worklets": "0.10.1"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  }
+}

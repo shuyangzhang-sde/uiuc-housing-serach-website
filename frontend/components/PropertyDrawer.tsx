@@ -1,17 +1,14 @@
 "use client"
 
 import { useEffect } from "react"
+import { priceRangeText as priceStr } from "@illirent/core"
 import { Listing } from "@/lib/api"
 import { COMPANY_LOGOS } from "@/lib/companies"
 import { availabilityStatus, bedsLabel, splitAvailabilityLines } from "@/lib/availability"
 import ListingPhoto from "@/components/ListingPhoto"
 import { heroDisplay } from "@/lib/fonts"
 
-function priceStr(low: number | null | undefined, high: number | null | undefined): string {
-  if (low == null) return "—"
-  if (high == null || low === high) return `$${low.toLocaleString()}`
-  return `$${low.toLocaleString()}–$${high?.toLocaleString()}`
-}
+
 
 // Matches ListingCardV2's badge language so a listing's status reads the same
 // in cards, table rows, and this drawer.
@@ -81,7 +78,7 @@ export function DrawerContent({ listing, onClose }: { listing: Listing; onClose:
     listing.price_total_low  ?? listing.price_per_bed_low,
     listing.price_total_high ?? listing.price_per_bed_high,
   )
-  const isSingleOccupancy = listing.beds <= 1
+  const isSingleOccupancy = (listing.beds ?? 0) <= 1
   const bedsLabelStr = bedsLabel(listing.beds, listing.unit_type)
   const badgeStyle   = STATUS_BADGE_STYLE[availabilityStatus(listing.availability)]
   const availLines   = splitAvailabilityLines(listing.availability)

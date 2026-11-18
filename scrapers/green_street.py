@@ -146,15 +146,18 @@ def scrape_green_street(fresh: bool = False):
         print(f"Found {len(cards)} property cards on main listing page")
 
         seen_urls = {}  # prop_url → True; insertion-order dedup (Python 3.7+)
+        skipped_cards = 0
 
         for card in cards:
             json_el = card.query_selector("script.property-info-json")
             if not json_el:
+                skipped_cards += 1
                 continue
             try:
                 data = json.loads(json_el.inner_text())
             except json.JSONDecodeError:
                 print("  ⚠ JSON parse error — skipping card")
+                skipped_cards += 1
                 continue
 
             address      = data.get("address_1", "")
@@ -209,7 +212,7 @@ def scrape_green_street(fresh: bool = False):
                   f"fetching {len(to_fetch)} missing")
 
         detail_cache = dict(reuse)
-        failed = 0
+        failed = skipped_cards
         for i, url in enumerate(to_fetch, 1):
             print(f"  [{i}/{len(to_fetch)}] {url}")
             detail = _scrape_detail(pg, url)

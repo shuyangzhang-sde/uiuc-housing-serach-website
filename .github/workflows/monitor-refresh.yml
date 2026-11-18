@@ -1,0 +1,28 @@
+name: Monitor listing freshness
+
+on:
+  schedule:
+    - cron: "37 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-freshness-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check production freshness and notify on incidents or recovery
+        env:
+          GH_TOKEN: "${{ github.token }}"
+          RESEND_API_KEY: "${{ secrets.RESEND_API_KEY }}"
+          REFRESH_ALERT_TO: "${{ secrets.REFRESH_ALERT_TO }}"
+          RESEND_FROM_ADDRESS: "${{ vars.RESEND_FROM_ADDRESS }}"
+          REFRESH_STATUS_URL: "${{ vars.REFRESH_STATUS_URL }}"
+        run: python3 scripts/refresh_ops.py monitor --github-state

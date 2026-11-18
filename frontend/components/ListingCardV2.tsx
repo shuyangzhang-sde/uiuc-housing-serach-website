@@ -1,3 +1,4 @@
+import { priceRangeText as priceStr } from "@illirent/core"
 import { Listing, Filters } from "@/lib/api"
 import { COMPANY_LOGOS } from "@/lib/companies"
 import { availabilityStatus, bedsLabel, splitAvailabilityLines } from "@/lib/availability"
@@ -7,11 +8,7 @@ import { heroDisplay } from "@/lib/fonts"
 // Same props and behavior as the original ListingCard; this is the current
 // card skin used by the browse grid.
 
-function priceStr(low: number | null | undefined, high: number | null | undefined): string {
-  if (low == null) return "—"
-  if (high == null || low === high) return `$${low.toLocaleString()}`
-  return `$${low.toLocaleString()}–$${high?.toLocaleString()}`
-}
+
 
 function splitAddress(address: string): { main: string; code: string | null } {
   const match = address.match(/^(.*),\s*([A-Z]{2}\s?\d{5})$/)
@@ -71,7 +68,7 @@ export default function ListingCardV2({
     showBedLabel ? bedsLabelStr : "",
     showPropertyType ? listing.property_type : "",
   ].filter(Boolean)
-  const isSingleOccupancy = listing.beds <= 1
+  const isSingleOccupancy = (listing.beds ?? 0) <= 1
   const overBudget = maxPricePerBed !== null && listing.price_per_bed_high !== null && listing.price_per_bed_high > maxPricePerBed
   const isUnavailable = availabilityStatus(listing.availability) === "unavailable"
   const { main: addressMain, code: addressCode } = splitAddress(listing.address)

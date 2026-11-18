@@ -6,6 +6,20 @@
 
 How to pull fresh listing data end to end: scrape each active company, normalize into a dated SQLite snapshot, geocode new addresses, and commit the snapshot that the backend reads.
 
+## Automated schedule
+
+The `Refresh listings` GitHub Actions workflow is scheduled for **every day at 6:00 AM
+in America/Chicago**, with daylight saving time handled by the schedule's timezone.
+Delayed starts still run the pipeline. Manual recovery runs are available through
+the Actions tab. See [Automated Refresh Reliability and Alerting](../automated-refresh-reliability.md)
+for validation, freshness tracking, production verification, and email alert setup.
+
+For a complete managed refresh, run `.venv/bin/python -m pipeline.refresh` from
+the project root. It stages all sources, rejects partial or suspicious results,
+and records actual successful checks even when listing content is unchanged.
+The manual per-scraper repair commands below do not create a full-run freshness
+receipt; use the managed command before publishing a verified complete refresh.
+
 ## Prerequisites
 
 - Virtualenv activated:

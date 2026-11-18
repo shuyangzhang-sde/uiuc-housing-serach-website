@@ -8,12 +8,12 @@ import { buildMapStyle, GRAIN_DATA_URI, themePins, pinTextColor, type MapTheme }
 const MAPLIBRE_VER = "5.24.0"
 
 function priceLabel(l: Listing): string {
-  const v = l.beds <= 1 ? l.price_total_low : l.price_per_bed_low
+  const v = (l.beds ?? 0) <= 1 ? l.price_total_low : l.price_per_bed_low
   return v != null ? `$${v.toLocaleString()}` : "—"
 }
 
 function priceSuffix(l: Listing): string {
-  return l.beds <= 1 ? "/mo" : "/bed"
+  return (l.beds ?? 0) <= 1 ? "/mo" : "/bed"
 }
 
 /**
@@ -68,7 +68,7 @@ export async function exportMapAsHtml(
   }))
 
   // Unique bed counts present in the data, sorted ascending
-  const bedTypes = [...new Set(mapped.map(l => l.beds))].sort((a, b) => a - b)
+  const bedTypes = [...new Set(mapped.map(l => l.beds))].sort((a, b) => (a ?? 0) - (b ?? 0))
 
   const html = `<!DOCTYPE html>
 <html lang="en">

@@ -67,3 +67,6 @@ tmp/
 
 # Local Claude/Codex worktrees and personal skills
 .claude/
+
+# JavaScript workspace dependencies
+node_modules/
