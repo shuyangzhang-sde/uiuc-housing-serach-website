@@ -2,9 +2,12 @@
 
 A housing search tool for UIUC students who want one place to compare real listings from Champaign-Urbana landlords.
 
-The app collects listings directly from property management sites, normalizes them into one dataset, and lets students filter by beds, price, availability, property type, source, and location.
+The platform collects listings directly from property management sites, normalizes them into one dataset, and lets students filter by beds, price, availability, property type, source, and location.
 
-**Live:** [illinirent.com](https://illinirent.com)
+IlliniRent has two parts.
+
+- **Website (Online)** — [illinirent.com](https://illinirent.com)
+- **App (Waiting to Launch)** — native iOS and Android app
 
 ## Product
 
@@ -17,7 +20,7 @@ The core workflow is:
 - switch to Map view when distance to campus matters
 - see which companies are included, excluded, or blocked by source limitations
 
-Active views:
+Website views:
 
 - **About** (`/about`) — editorial product page and entry point
 - **Card** (`/card`) — filter-driven listing browse
@@ -53,42 +56,68 @@ Local ports:
 
 ## Tech Stack
 
+### Website (Online)
+
 | Layer | Technology |
 |---|---|
 | Scraping | Playwright |
 | Database | SQLite snapshots |
 | Backend | FastAPI + Uvicorn |
-| Frontend | Next.js 16, React 19, TypeScript, Tailwind CSS |
+| Frontend | Next.js 16, React 19, TypeScript 5, Tailwind CSS 4 |
 | Auth | Supabase Auth |
 | Maps | react-map-gl, MapLibre GL, OpenFreeMap, OpenRouteService |
 | Deployment | Railway backend, Vercel frontend |
-| Language | Python 3.14, TypeScript |
+| Backend language | Python 3.14 |
+
+### App (Waiting to Launch)
+
+The iOS and Android apps use the same FastAPI backend and listing data as the web app.
+
+| Layer | Technology |
+|---|---|
+| App framework | Expo SDK 57, React Native 0.86, React 19, TypeScript 6 |
+| Navigation | Expo Router |
+| Server state | TanStack Query |
+| Auth | Supabase Auth (email OTP), Expo SecureStore |
+| Maps | MapLibre React Native, OpenFreeMap |
+| Crash reporting | Sentry |
+| Build tooling | Expo development builds, EAS Build profiles |
 
 ## Project Structure
 
 ```text
-uiuc-housing-assistant/
-├── scrapers/                   # One scraper per landlord
-├── pipeline/
-│   ├── normalize.py            # Raw JSON -> SQLite snapshot
-│   └── geocode.py              # Batch geocoding
-├── backend/
-│   └── main.py                 # FastAPI: /api/listings, /api/status
-├── frontend/
-│   ├── app/
-│   │   ├── card/               # Card search view
-│   │   ├── map/                # Map search view
-│   │   ├── about/              # Product page
-│   │   └── login/              # Supabase auth
+uiuc-housing-serach-website/
+├── frontend/                   # Website (Next.js)
+│   ├── app/                    # About, Card, Map, Login, and API routes
 │   ├── components/
 │   └── lib/
+├── mobile/                     # App (Expo / React Native for iOS and Android)
+│   ├── app/                    # Expo Router: sign-in, Home, Browse, Map, and details
+│   ├── src/                    # Auth, listing and map features, and UI components
+│   ├── assets/
+│   ├── app.config.ts           # Expo app configuration
+│   └── eas.json                # EAS build profiles
+├── packages/                   # Shared Web and App workspaces
+│   ├── core/                   # Listing types, filters, and domain logic
+│   ├── api-client/             # Listing API client and query parameters
+│   ├── search-state/           # Shared search filter state
+│   └── design-tokens/          # Shared colors and design tokens
+├── backend/                    # Shared FastAPI service
+│   └── main.py                 # Listing and status endpoints
+├── scrapers/                   # One scraper per landlord
+├── pipeline/
+│   ├── refresh.py              # Orchestrates and publishes listing refreshes
+│   ├── normalize.py            # Raw JSON -> SQLite snapshot
+│   └── geocode.py              # Batch geocoding
 ├── snapshots/                  # Versioned SQLite + raw JSON snapshots
+├── tests/                      # Mobile, shared package, and backend tests
 ├── archive/
 │   ├── legacy-chat-rag/         # Archived Chat, Table, RAG, Chroma assets
 │   ├── retired-feedback-page/   # Archived user-facing feedback page
 │   └── ui-snapshots/            # Full frontend UI snapshots
 ├── design-docs/                # Detailed implementation notes
-└── scripts/                    # Maintainer tooling
+├── scripts/                    # Maintainer tooling
+└── package.json                # npm workspace and scripts
 ```
 
 ## Local Commands
