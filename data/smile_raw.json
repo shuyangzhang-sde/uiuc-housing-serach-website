@@ -149,7 +149,7 @@
     "area": "Seniorland",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "2 Bedroom",
+    "unit_type": "2 Bedroom 1 Bathroom",
     "beds": "2",
     "baths": "1",
     "sqft": "565",
@@ -165,7 +165,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1062044,
     "lng": -88.2381755,
-    "text": "103 E Chalmers Street, Champaign. 2 Bedroom: 2 bed, 1 bath. Price: $729/bed per month, $1458/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/4f49af0c-5bfd-4eac-8056-3d3d1b53854b"
+    "text": "103 E Chalmers Street, Champaign. 2 Bedroom 1 Bathroom: 2 bed, 1 bath. Price: $729/bed per month, $1458/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/4f49af0c-5bfd-4eac-8056-3d3d1b53854b"
   },
   {
     "company": "Smile Student Living",
@@ -173,7 +173,7 @@
     "area": "Gradland",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "3 Bedroom 1 Bath - First Floor",
+    "unit_type": "3 Bedroom 1 Bathroom - First Floor",
     "beds": "3",
     "baths": "1",
     "sqft": "700",
@@ -189,7 +189,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity - See Section 2.6",
     "lat": 40.1130312,
     "lng": -88.2189956,
-    "text": "104 N Lincoln Ave, Urbana. 3 Bedroom 1 Bath - First Floor: 3 bed, 1 bath. Price: $459/bed per month, $1377/month total. Availability: Available August 17, 2027. Area: Gradland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/d4964cbf-d362-4596-a415-d73f662e6ccb"
+    "text": "104 N Lincoln Ave, Urbana. 3 Bedroom 1 Bathroom - First Floor: 3 bed, 1 bath. Price: $459/bed per month, $1377/month total. Availability: Available August 17, 2027. Area: Gradland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/d4964cbf-d362-4596-a415-d73f662e6ccb"
   },
   {
     "company": "Smile Student Living",
@@ -245,7 +245,7 @@
     "area": "Gradland",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "2 Bedroom 1 Bath - First Floor",
+    "unit_type": "2 Bedroom 1 Bathroom - First Floor",
     "beds": "2",
     "baths": "1",
     "sqft": "604",
@@ -261,7 +261,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1125383,
     "lng": -88.2181585,
-    "text": "105 N Busey, Urbana. 2 Bedroom 1 Bath - First Floor: 2 bed, 1 bath. Price: $599/bed per month, $1198/month total. Availability: Available August 17, 2027. Area: Gradland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/ec598c2a-0970-4d62-bcdb-de0341a04722"
+    "text": "105 N Busey, Urbana. 2 Bedroom 1 Bathroom - First Floor: 2 bed, 1 bath. Price: $599/bed per month, $1198/month total. Availability: Available August 17, 2027. Area: Gradland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/ec598c2a-0970-4d62-bcdb-de0341a04722"
   },
   {
     "company": "Smile Student Living",
@@ -269,7 +269,7 @@
     "area": "Gradland",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "3 Bedroom 1 Bath - First Floor",
+    "unit_type": "3 Bedroom 1 Bathroom - First Floor",
     "beds": "3",
     "baths": "1",
     "sqft": "763",
@@ -285,7 +285,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1125383,
     "lng": -88.2181585,
-    "text": "105 N Busey, Urbana. 3 Bedroom 1 Bath - First Floor: 3 bed, 1 bath. Price: $459/bed per month, $1377/month total. Availability: Available August 17, 2027. Area: Gradland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/a8b5b282-913a-432f-9b36-0f24f0dcf0d7"
+    "text": "105 N Busey, Urbana. 3 Bedroom 1 Bathroom - First Floor: 3 bed, 1 bath. Price: $459/bed per month, $1377/month total. Availability: Available August 17, 2027. Area: Gradland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/a8b5b282-913a-432f-9b36-0f24f0dcf0d7"
   },
   {
     "company": "Smile Student Living",
@@ -293,7 +293,7 @@
     "area": "Gradland",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "4 Bedroom 2 Bath",
+    "unit_type": "4 Bedroom 2 Bathroom",
     "beds": "4",
     "baths": "2",
     "sqft": "923",
@@ -309,7 +309,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1125383,
     "lng": -88.2181585,
-    "text": "105 N Busey, Urbana. 4 Bedroom 2 Bath: 4 bed, 2 bath. Price: $409/bed per month, $1636/month total. Availability: Available August 17, 2027. Area: Gradland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/67c7eadd-f719-485d-92f6-ea76484ecc6f"
+    "text": "105 N Busey, Urbana. 4 Bedroom 2 Bathroom: 4 bed, 2 bath. Price: $409/bed per month, $1636/month total. Availability: Available August 17, 2027. Area: Gradland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/67c7eadd-f719-485d-92f6-ea76484ecc6f"
   },
   {
     "company": "Smile Student Living",
@@ -317,7 +317,7 @@
     "area": "Engineering",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "1 Bedroom 1 Bath",
+    "unit_type": "1 Bedroom 1 Bathroom",
     "beds": "1",
     "baths": "1",
     "sqft": "451",
@@ -333,7 +333,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1157529,
     "lng": -88.2295728,
-    "text": "105 S Wright, Champaign. 1 Bedroom 1 Bath: 1 bed, 1 bath. Price: $1299/bed per month, $1299/month total. Availability: Available August 17, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/1be7da8d-db62-4256-97a8-e9dcc66a3b92"
+    "text": "105 S Wright, Champaign. 1 Bedroom 1 Bathroom: 1 bed, 1 bath. Price: $1299/bed per month, $1299/month total. Availability: Available August 17, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/1be7da8d-db62-4256-97a8-e9dcc66a3b92"
   },
   {
     "company": "Smile Student Living",
@@ -341,7 +341,7 @@
     "area": "Engineering",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "2 Bedroom 2 Bath",
+    "unit_type": "2 Bedroom 2 Bathroom",
     "beds": "2",
     "baths": "2",
     "sqft": "823",
@@ -357,7 +357,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1157529,
     "lng": -88.2295728,
-    "text": "105 S Wright, Champaign. 2 Bedroom 2 Bath: 2 bed, 2 bath. Price: $889/bed per month, $1778/month total. Availability: Available August 18, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/5ff11cbd-3c98-45fe-96f0-1c277988c063"
+    "text": "105 S Wright, Champaign. 2 Bedroom 2 Bathroom: 2 bed, 2 bath. Price: $889/bed per month, $1778/month total. Availability: Available August 18, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/5ff11cbd-3c98-45fe-96f0-1c277988c063"
   },
   {
     "company": "Smile Student Living",
@@ -365,7 +365,7 @@
     "area": "Engineering",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "4 Bedroom 3 Bath",
+    "unit_type": "4 Bedroom 3 Bathroom",
     "beds": "4",
     "baths": "3",
     "sqft": "1184",
@@ -381,7 +381,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1157529,
     "lng": -88.2295728,
-    "text": "105 S Wright, Champaign. 4 Bedroom 3 Bath: 4 bed, 3 bath. Price: $709/bed per month, $2836/month total. Availability: Available August 18, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/c7681c7d-2773-47fd-8bb6-3d8ac3318f78"
+    "text": "105 S Wright, Champaign. 4 Bedroom 3 Bathroom: 4 bed, 3 bath. Price: $709/bed per month, $2836/month total. Availability: Available August 18, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/c7681c7d-2773-47fd-8bb6-3d8ac3318f78"
   },
   {
     "company": "Smile Student Living",
@@ -437,7 +437,7 @@
     "area": "Midtown",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "1 Bedroom 1 Bath",
+    "unit_type": "1 Bedroom 1 Bathroom",
     "beds": "1",
     "baths": "1",
     "sqft": "511",
@@ -453,7 +453,7 @@
     "utility_fees": "Water, Internet, Sewer, Trash Service, Recycling",
     "lat": 40.1111574,
     "lng": -88.2377893,
-    "text": "107 E Healey Street, Champaign. 1 Bedroom 1 Bath: 1 bed, 1 bath. Price: $1399/bed per month, $1399/month total. Availability: Available August 20, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/b81694b6-355d-40fc-a166-91de3d994540"
+    "text": "107 E Healey Street, Champaign. 1 Bedroom 1 Bathroom: 1 bed, 1 bath. Price: $1399/bed per month, $1399/month total. Availability: Available August 20, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/b81694b6-355d-40fc-a166-91de3d994540"
   },
   {
     "company": "Smile Student Living",
@@ -461,7 +461,7 @@
     "area": "Midtown",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "1 Bedroom 1 Bath",
+    "unit_type": "1 Bedroom 1 Bathroom",
     "beds": "1",
     "baths": "1",
     "sqft": "511",
@@ -477,7 +477,7 @@
     "utility_fees": "Water, Internet, Sewer, Trash Service, Recycling",
     "lat": 40.1111574,
     "lng": -88.2377893,
-    "text": "107 E Healey Street, Champaign. 1 Bedroom 1 Bath: 1 bed, 1 bath. Price: $1299/bed per month, $1299/month total. Availability: Available now. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/c66f0351-2195-4473-b24d-34939e79da46"
+    "text": "107 E Healey Street, Champaign. 1 Bedroom 1 Bathroom: 1 bed, 1 bath. Price: $1299/bed per month, $1299/month total. Availability: Available now. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/c66f0351-2195-4473-b24d-34939e79da46"
   },
   {
     "company": "Smile Student Living",
@@ -509,7 +509,7 @@
     "area": "Midtown",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "2 Bed 1 Bath",
+    "unit_type": "2 Bedroom 1 Bathroom",
     "beds": "2",
     "baths": "1",
     "sqft": "580",
@@ -525,7 +525,7 @@
     "utility_fees": "Water, Sewer, Internet, Trash Service, Recycling, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1122151,
     "lng": -88.2381191,
-    "text": "107 E Springfield Avenue, Champaign. 2 Bed 1 Bath: 2 bed, 1 bath. Price: $699/bed per month, $1398/month total. Availability: Available August 20, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/430bae5b-6498-486b-9f7b-ff32c476ccb9"
+    "text": "107 E Springfield Avenue, Champaign. 2 Bedroom 1 Bathroom: 2 bed, 1 bath. Price: $699/bed per month, $1398/month total. Availability: Available August 20, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/430bae5b-6498-486b-9f7b-ff32c476ccb9"
   },
   {
     "company": "Smile Student Living",
@@ -533,7 +533,7 @@
     "area": "Midtown",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "2 Bed 2 Bath",
+    "unit_type": "2 Bedroom 2 Bathroom",
     "beds": "2",
     "baths": "2",
     "sqft": "780",
@@ -549,7 +549,7 @@
     "utility_fees": "Internet, Water, Sewer, Trash Service, Recycling, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1122151,
     "lng": -88.2381191,
-    "text": "107 E Springfield Avenue, Champaign. 2 Bed 2 Bath: 2 bed, 2 bath. Price: $859/bed per month, $1718/month total. Availability: Available August 20, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/6e60de37-fba3-4abb-8f93-71b8e3c4b274"
+    "text": "107 E Springfield Avenue, Champaign. 2 Bedroom 2 Bathroom: 2 bed, 2 bath. Price: $859/bed per month, $1718/month total. Availability: Available August 20, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/6e60de37-fba3-4abb-8f93-71b8e3c4b274"
   },
   {
     "company": "Smile Student Living",
@@ -557,7 +557,7 @@
     "area": "Midtown",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "3 Bed 2 Bath",
+    "unit_type": "3 Bedroom 2 Bathroom",
     "beds": "3",
     "baths": "2",
     "sqft": "972",
@@ -573,7 +573,7 @@
     "utility_fees": "Water, Internet, Sewer, Trash Service, Recycling, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1122151,
     "lng": -88.2381191,
-    "text": "107 E Springfield Avenue, Champaign. 3 Bed 2 Bath: 3 bed, 2 bath. Price: $699/bed per month, $2097/month total. Availability: Available August 20, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/308ba4dd-dc1b-426c-be23-62d5cb12988a"
+    "text": "107 E Springfield Avenue, Champaign. 3 Bedroom 2 Bathroom: 3 bed, 2 bath. Price: $699/bed per month, $2097/month total. Availability: Available August 20, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/308ba4dd-dc1b-426c-be23-62d5cb12988a"
   },
   {
     "company": "Smile Student Living",
@@ -581,7 +581,7 @@
     "area": "Midtown",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "2 Bedroom 1 Bath",
+    "unit_type": "2 Bedroom 1 Bathroom",
     "beds": "2",
     "baths": "1",
     "sqft": "782",
@@ -597,7 +597,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.11172,
     "lng": -88.2377963,
-    "text": "108 E Healey Street, Champaign. 2 Bedroom 1 Bath: 2 bed, 1 bath. Price: $729/bed per month, $1458/month total. Availability: Available August 20, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/4984ccd4-34f8-4da1-a3f1-9a4b7e7dc606"
+    "text": "108 E Healey Street, Champaign. 2 Bedroom 1 Bathroom: 2 bed, 1 bath. Price: $729/bed per month, $1458/month total. Availability: Available August 20, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/4984ccd4-34f8-4da1-a3f1-9a4b7e7dc606"
   },
   {
     "company": "Smile Student Living",
@@ -605,7 +605,7 @@
     "area": "Midtown",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "3 Bedroom 1 Bath",
+    "unit_type": "3 Bedroom 1 Bathroom",
     "beds": "3",
     "baths": "1",
     "sqft": "1050",
@@ -621,7 +621,7 @@
     "utility_fees": "Water, Internet, Sewer, Recycling, Trash Service",
     "lat": 40.1124305,
     "lng": -88.2374954,
-    "text": "111 E Springfield Avenue, Champaign. 3 Bedroom 1 Bath: 3 bed, 1 bath. Price: $410/bed per month, $1230/month total. Availability: Available August 20, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/8e53aa9c-3993-40b0-83d3-764f34d8db73"
+    "text": "111 E Springfield Avenue, Champaign. 3 Bedroom 1 Bathroom: 3 bed, 1 bath. Price: $410/bed per month, $1230/month total. Availability: Available August 20, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/8e53aa9c-3993-40b0-83d3-764f34d8db73"
   },
   {
     "company": "Smile Student Living",
@@ -629,7 +629,7 @@
     "area": "Seniorland",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "2 Bedroom",
+    "unit_type": "2 Bedroom 1 Bathroom",
     "beds": "2",
     "baths": "1",
     "sqft": "644",
@@ -645,7 +645,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1069699,
     "lng": -88.2367495,
-    "text": "202 E Chalmers St, Champaign. 2 Bedroom: 2 bed, 1 bath. Price: $749/bed per month, $1498/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/e66f9182-73ae-49c5-b041-4e41d7708422"
+    "text": "202 E Chalmers St, Champaign. 2 Bedroom 1 Bathroom: 2 bed, 1 bath. Price: $749/bed per month, $1498/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/e66f9182-73ae-49c5-b041-4e41d7708422"
   },
   {
     "company": "Smile Student Living",
@@ -653,7 +653,7 @@
     "area": "",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "4 Bedroom 3 Bath",
+    "unit_type": "4 Bedroom 3 Bathroom",
     "beds": "4",
     "baths": "3",
     "sqft": "1100",
@@ -669,7 +669,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1069699,
     "lng": -88.2367495,
-    "text": "202 E Chalmers St, Champaign. 4 Bedroom 3 Bath: 4 bed, 3 bath. Price: $759/bed per month, $3036/month total. Availability: Available August 20, 2027. Area: . Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/1d22fb85-aa43-4582-8483-6f3591a6254f"
+    "text": "202 E Chalmers St, Champaign. 4 Bedroom 3 Bathroom: 4 bed, 3 bath. Price: $759/bed per month, $3036/month total. Availability: Available August 20, 2027. Area: . Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/1d22fb85-aa43-4582-8483-6f3591a6254f"
   },
   {
     "company": "Smile Student Living",
@@ -677,7 +677,7 @@
     "area": "Engineering",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "1 Bedroom 1 Bath - Garden Unit",
+    "unit_type": "1 Bedroom 1 Bathroom - Garden Unit",
     "beds": "1",
     "baths": "1",
     "sqft": "500",
@@ -693,7 +693,7 @@
     "utility_fees": "Water & Sewer, Trash Service, Lawncare, Snow Removal, Gas",
     "lat": 40.1150581,
     "lng": -88.229259,
-    "text": "203 S Wright Street, Champaign. 1 Bedroom 1 Bath - Garden Unit: 1 bed, 1 bath. Price: $999/bed per month, $999/month total. Availability: Available August 18, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/963f814f-609a-491c-b361-0c4d8e88b4c0"
+    "text": "203 S Wright Street, Champaign. 1 Bedroom 1 Bathroom - Garden Unit: 1 bed, 1 bath. Price: $999/bed per month, $999/month total. Availability: Available August 18, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/963f814f-609a-491c-b361-0c4d8e88b4c0"
   },
   {
     "company": "Smile Student Living",
@@ -701,7 +701,7 @@
     "area": "Engineering",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "2 Bedroom 1 Bath - Garden Unit",
+    "unit_type": "2 Bedroom 1 Bathroom - Garden Unit",
     "beds": "2",
     "baths": "1",
     "sqft": "700",
@@ -717,7 +717,7 @@
     "utility_fees": "Water & Sewer, Gas, Trash Service, Lawncare, Snow Removal",
     "lat": 40.1150581,
     "lng": -88.229259,
-    "text": "203 S Wright Street, Champaign. 2 Bedroom 1 Bath - Garden Unit: 2 bed, 1 bath. Price: $549/bed per month, $1098/month total. Availability: Available August 18, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/c3f93939-7c51-4d33-b7ca-c07c86caf387"
+    "text": "203 S Wright Street, Champaign. 2 Bedroom 1 Bathroom - Garden Unit: 2 bed, 1 bath. Price: $549/bed per month, $1098/month total. Availability: Available August 18, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/c3f93939-7c51-4d33-b7ca-c07c86caf387"
   },
   {
     "company": "Smile Student Living",
@@ -725,7 +725,7 @@
     "area": "Engineering",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "4 Bedroom 2 Bath - Upper Floor",
+    "unit_type": "4 Bedroom 2 Bathroom - Upper Floor",
     "beds": "4",
     "baths": "2",
     "sqft": "957",
@@ -741,7 +741,7 @@
     "utility_fees": "Internet, Sewer, Recycling, Trash Service, Water, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1146148,
     "lng": -88.2323309,
-    "text": "207 S Fifth, Champaign. 4 Bedroom 2 Bath - Upper Floor: 4 bed, 2 bath. Price: $649/bed per month, $2596/month total. Availability: Available August 20, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/df5bf94e-8ce5-418d-839d-3623501d7151"
+    "text": "207 S Fifth, Champaign. 4 Bedroom 2 Bathroom - Upper Floor: 4 bed, 2 bath. Price: $649/bed per month, $2596/month total. Availability: Available August 20, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/df5bf94e-8ce5-418d-839d-3623501d7151"
   },
   {
     "company": "Smile Student Living",
@@ -749,7 +749,7 @@
     "area": "Seniorland",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "2 Bedroom 1 Bath",
+    "unit_type": "2 Bedroom 1 Bathroom",
     "beds": "2",
     "baths": "1",
     "sqft": "601",
@@ -765,7 +765,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1062313,
     "lng": -88.2351439,
-    "text": "301 E Chalmers, Champaign. 2 Bedroom 1 Bath: 2 bed, 1 bath. Price: $829/bed per month, $1658/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/ad8cbb6a-c7ce-45e6-9306-08954d7cada5"
+    "text": "301 E Chalmers, Champaign. 2 Bedroom 1 Bathroom: 2 bed, 1 bath. Price: $829/bed per month, $1658/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/ad8cbb6a-c7ce-45e6-9306-08954d7cada5"
   },
   {
     "company": "Smile Student Living",
@@ -773,7 +773,7 @@
     "area": "Seniorland",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "4 Bedroom 2 Bath",
+    "unit_type": "4 Bedroom 2 Bathroom",
     "beds": "4",
     "baths": "2",
     "sqft": "1031",
@@ -789,7 +789,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1062313,
     "lng": -88.2351439,
-    "text": "301 E Chalmers, Champaign. 4 Bedroom 2 Bath: 4 bed, 2 bath. Price: $729/bed per month, $2916/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/e8662a05-bb73-4526-9538-0451a6689dd6"
+    "text": "301 E Chalmers, Champaign. 4 Bedroom 2 Bathroom: 4 bed, 2 bath. Price: $729/bed per month, $2916/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/e8662a05-bb73-4526-9538-0451a6689dd6"
   },
   {
     "company": "Smile Student Living",
@@ -797,7 +797,7 @@
     "area": "Seniorland",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "1 Bedroom 1 Bath",
+    "unit_type": "1 Bedroom 1 Bathroom",
     "beds": "1",
     "baths": "1",
     "sqft": "616",
@@ -813,7 +813,7 @@
     "utility_fees": "Water, Internet, Sewer, Trash Service, Recycling",
     "lat": 40.109843,
     "lng": -88.2349213,
-    "text": "303 E Green Street, Champaign. 1 Bedroom 1 Bath: 1 bed, 1 bath. Price: $1149/bed per month, $1149/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/d7a1a42c-acf6-4a2a-9279-65257d66b6cf"
+    "text": "303 E Green Street, Champaign. 1 Bedroom 1 Bathroom: 1 bed, 1 bath. Price: $1149/bed per month, $1149/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/d7a1a42c-acf6-4a2a-9279-65257d66b6cf"
   },
   {
     "company": "Smile Student Living",
@@ -821,7 +821,7 @@
     "area": "Seniorland",
     "property_type": "Apartment",
     "roommate_match": false,
-    "unit_type": "2 Bedroom 1 Bath - Type A",
+    "unit_type": "2 Bedroom 1 Bathroom - Type A",
     "beds": "2",
     "baths": "1",
     "sqft": "546",
@@ -837,7 +837,7 @@
     "utility_fees": "Water, Internet, Sewer, Trash Service, Recycling",
     "lat": 40.109843,
     "lng": -88.2349213,
-    "text": "303 E Green Street, Champaign. 2 Bedroom 1 Bath - Type A: 2 bed, 1 bath. Price: $669/bed per month, $1338/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/95742f3c-93b8-4c5c-a8ed-f5f08d0c127c"
+    "text": "303 E Green Street, Champaign. 2 Bedroom 1 Bathroom - Type A: 2 bed, 1 bath. Price: $669/bed per month, $1338/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/95742f3c-93b8-4c5c-a8ed-f5f08d0c127c"
   },
   {
     "company": "Smile Student Living",
@@ -845,7 +845,7 @@
     "area": "Seniorland",
     "property_type": "Apartment",
     "roommate_match": false,
-    "unit_type": "3 Bedroom 3 Bath",
+    "unit_type": "3 Bedroom 3 Bathroom",
     "beds": "3",
     "baths": "3",
     "sqft": "938",
@@ -861,7 +861,7 @@
     "utility_fees": "Water, Internet, Sewer, Trash Service, Recycling",
     "lat": 40.109843,
     "lng": -88.2349213,
-    "text": "303 E Green Street, Champaign. 3 Bedroom 3 Bath: 3 bed, 3 bath. Price: $719/bed per month, $2157/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/451fd3ef-bd84-4a08-a47c-3e66407d09d2"
+    "text": "303 E Green Street, Champaign. 3 Bedroom 3 Bathroom: 3 bed, 3 bath. Price: $719/bed per month, $2157/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/451fd3ef-bd84-4a08-a47c-3e66407d09d2"
   },
   {
     "company": "Smile Student Living",
@@ -869,7 +869,7 @@
     "area": "Seniorland",
     "property_type": "Apartment",
     "roommate_match": false,
-    "unit_type": "4 Bedroom 2 Bath",
+    "unit_type": "4 Bedroom 2 Bathroom",
     "beds": "4",
     "baths": "2",
     "sqft": "1144",
@@ -885,7 +885,7 @@
     "utility_fees": "Water, Internet, Sewer, Trash Service, Recycling",
     "lat": 40.109843,
     "lng": -88.2349213,
-    "text": "303 E Green Street, Champaign. 4 Bedroom 2 Bath: 4 bed, 2 bath. Price: $549/bed per month, $2196/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/f845b474-e5f1-4ee7-92e1-39ab17c5e588"
+    "text": "303 E Green Street, Champaign. 4 Bedroom 2 Bathroom: 4 bed, 2 bath. Price: $549/bed per month, $2196/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/f845b474-e5f1-4ee7-92e1-39ab17c5e588"
   },
   {
     "company": "Smile Student Living",
@@ -893,7 +893,7 @@
     "area": "Seniorland",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "4 Bedroom 2 Bath",
+    "unit_type": "4 Bedroom 2 Bathroom",
     "beds": "4",
     "baths": "2",
     "sqft": "1095",
@@ -909,7 +909,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1083579,
     "lng": -88.2350406,
-    "text": "304 E Daniel, Champaign. 4 Bedroom 2 Bath: 4 bed, 2 bath. Price: $729/bed per month, $2916/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/b5a1d36c-86cc-4b41-a878-faaf2c6fd1c8"
+    "text": "304 E Daniel, Champaign. 4 Bedroom 2 Bathroom: 4 bed, 2 bath. Price: $729/bed per month, $2916/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/b5a1d36c-86cc-4b41-a878-faaf2c6fd1c8"
   },
   {
     "company": "Smile Student Living",
@@ -917,7 +917,7 @@
     "area": "Seniorland",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "2 Bedroom 2 Bath",
+    "unit_type": "2 Bedroom 2 Bathroom",
     "beds": "2",
     "baths": "2",
     "sqft": "808",
@@ -933,7 +933,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.108784,
     "lng": -88.2342899,
-    "text": "309 E John, Champaign. 2 Bedroom 2 Bath: 2 bed, 2 bath. Price: $999/bed per month, $1998/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/e7a70465-a577-46d0-a375-ae267d34f6a6"
+    "text": "309 E John, Champaign. 2 Bedroom 2 Bathroom: 2 bed, 2 bath. Price: $999/bed per month, $1998/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/e7a70465-a577-46d0-a375-ae267d34f6a6"
   },
   {
     "company": "Smile Student Living",
@@ -941,7 +941,7 @@
     "area": "Seniorland",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "4 Bedroom 4 Bath",
+    "unit_type": "4 Bedroom 4 Bathroom",
     "beds": "4",
     "baths": "4",
     "sqft": "1251",
@@ -957,7 +957,7 @@
     "utility_fees": "Internet, Water, Sewer, Recycling, Trash Service, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.108784,
     "lng": -88.2342899,
-    "text": "309 E John, Champaign. 4 Bedroom 4 Bath: 4 bed, 4 bath. Price: $879/bed per month, $3516/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/fc406477-664a-4b60-8d3a-130428b879d6"
+    "text": "309 E John, Champaign. 4 Bedroom 4 Bathroom: 4 bed, 4 bath. Price: $879/bed per month, $3516/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/fc406477-664a-4b60-8d3a-130428b879d6"
   },
   {
     "company": "Smile Student Living",
@@ -965,7 +965,7 @@
     "area": "Gradland",
     "property_type": "Apartment",
     "roommate_match": false,
-    "unit_type": "4 Bedroom 2 Bath",
+    "unit_type": "4 Bedroom 2 Bathroom",
     "beds": "4",
     "baths": "2",
     "sqft": "1050",
@@ -981,7 +981,7 @@
     "utility_fees": "Internet, Water, Sewer, Recycling, Trash Service",
     "lat": 40.1121215,
     "lng": -88.2119712,
-    "text": "401 W Springfield, Urbana. 4 Bedroom 2 Bath: 4 bed, 2 bath. Price: $509/bed per month, $2036/month total. Availability: Available August 17, 2027. Area: Gradland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/a4036dd5-02fd-4bae-9279-c1f53e6b2397"
+    "text": "401 W Springfield, Urbana. 4 Bedroom 2 Bathroom: 4 bed, 2 bath. Price: $509/bed per month, $2036/month total. Availability: Available August 17, 2027. Area: Gradland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/a4036dd5-02fd-4bae-9279-c1f53e6b2397"
   },
   {
     "company": "Smile Student Living",
@@ -989,7 +989,7 @@
     "area": "Gradland",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "2 Bedroom 2 Bath",
+    "unit_type": "2 Bedroom 2 Bathroom",
     "beds": "2",
     "baths": "2",
     "sqft": "950",
@@ -1005,7 +1005,7 @@
     "utility_fees": "Water, Internet, Sewer, Trash Service, Recycling, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1156934,
     "lng": -88.2204416,
-    "text": "402 N Gregory Street, Urbana. 2 Bedroom 2 Bath: 2 bed, 2 bath. Price: $889/bed per month, $1778/month total. Availability: Available August 17, 2027. Area: Gradland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/3b3053c1-5e61-4f91-8f6f-30cbb754038e"
+    "text": "402 N Gregory Street, Urbana. 2 Bedroom 2 Bathroom: 2 bed, 2 bath. Price: $889/bed per month, $1778/month total. Availability: Available August 17, 2027. Area: Gradland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/3b3053c1-5e61-4f91-8f6f-30cbb754038e"
   },
   {
     "company": "Smile Student Living",
@@ -1013,7 +1013,7 @@
     "area": "Engineering",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "3 Bedroom 3 Bath",
+    "unit_type": "3 Bedroom 3 Bathroom",
     "beds": "3",
     "baths": "3",
     "sqft": "964",
@@ -1029,7 +1029,7 @@
     "utility_fees": "Water, Internet, Trash Service, Sewer, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1131278,
     "lng": -88.2318743,
-    "text": "402 S Fifth Street, Champaign. 3 Bedroom 3 Bath: 3 bed, 3 bath. Price: $789/bed per month, $2367/month total. Availability: Available August 18, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/ad173794-ea89-4fd7-b0a1-dca3cda6f12c"
+    "text": "402 S Fifth Street, Champaign. 3 Bedroom 3 Bathroom: 3 bed, 3 bath. Price: $789/bed per month, $2367/month total. Availability: Available August 18, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/ad173794-ea89-4fd7-b0a1-dca3cda6f12c"
   },
   {
     "company": "Smile Student Living",
@@ -1037,7 +1037,7 @@
     "area": "Engineering",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "1 Bedroom A - Outside",
+    "unit_type": "1 Bedroom 1 Bathroom A - Outside",
     "beds": "1",
     "baths": "1",
     "sqft": "511",
@@ -1053,7 +1053,7 @@
     "utility_fees": "Internet, Water, Recycling, Sewer, Trash Service, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1156434,
     "lng": -88.2330333,
-    "text": "404 E Clark St, Champaign. 1 Bedroom A - Outside: 1 bed, 1 bath. Price: $1349/bed per month, $1349/month total. Availability: Available now. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/ebda71b7-19d8-425b-96b2-98673e8f8572"
+    "text": "404 E Clark St, Champaign. 1 Bedroom 1 Bathroom A - Outside: 1 bed, 1 bath. Price: $1349/bed per month, $1349/month total. Availability: Available now. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/ebda71b7-19d8-425b-96b2-98673e8f8572"
   },
   {
     "company": "Smile Student Living",
@@ -1061,7 +1061,7 @@
     "area": "Midtown",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "1 Bedroom C - XL",
+    "unit_type": "1 Bedroom 1 Bathroom C - XL",
     "beds": "1",
     "baths": "1",
     "sqft": "627",
@@ -1077,7 +1077,7 @@
     "utility_fees": "Internet, Water, Recycling, Sewer, Trash Service, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1156434,
     "lng": -88.2330333,
-    "text": "404 E Clark St, Champaign. 1 Bedroom C - XL: 1 bed, 1 bath. Price: $1349/bed per month, $1349/month total. Availability: Available August 16, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/348167e6-b8ac-47b8-8d17-1a419eb6bd71"
+    "text": "404 E Clark St, Champaign. 1 Bedroom 1 Bathroom C - XL: 1 bed, 1 bath. Price: $1349/bed per month, $1349/month total. Availability: Available August 16, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/348167e6-b8ac-47b8-8d17-1a419eb6bd71"
   },
   {
     "company": "Smile Student Living",
@@ -1085,7 +1085,7 @@
     "area": "Engineering",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "1 Bedroom",
+    "unit_type": "1 Bedroom 1 Bathroom",
     "beds": "1",
     "baths": "1",
     "sqft": "575",
@@ -1101,7 +1101,7 @@
     "utility_fees": "Water & Sewer, Trash Service, Recycling, Internet, Electricity - $60 cap",
     "lat": 40.1132313,
     "lng": -88.2328282,
-    "text": "405 E Stoughton, Champaign. 1 Bedroom: 1 bed, 1 bath. Price: $1499/bed per month, $1499/month total. Availability: Available now. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/02311c81-8423-484e-b0bc-f8b9f856d348"
+    "text": "405 E Stoughton, Champaign. 1 Bedroom 1 Bathroom: 1 bed, 1 bath. Price: $1499/bed per month, $1499/month total. Availability: Available now. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/02311c81-8423-484e-b0bc-f8b9f856d348"
   },
   {
     "company": "Smile Student Living",
@@ -1109,7 +1109,7 @@
     "area": "Midtown",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "1 Bedroom - High Floor (6th-7th)",
+    "unit_type": "1 Bedroom 1 Bathroom - High Floor (6th-7th)",
     "beds": "1",
     "baths": "1",
     "sqft": "575",
@@ -1125,7 +1125,7 @@
     "utility_fees": "Water & Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1132313,
     "lng": -88.2328282,
-    "text": "405 E Stoughton, Champaign. 1 Bedroom - High Floor (6th-7th): 1 bed, 1 bath. Price: $1599/bed per month, $1599/month total. Availability: Available August 17, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/6bee75ed-a13e-46f1-9711-a43aed8bcb02"
+    "text": "405 E Stoughton, Champaign. 1 Bedroom 1 Bathroom - High Floor (6th-7th): 1 bed, 1 bath. Price: $1599/bed per month, $1599/month total. Availability: Available August 17, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/6bee75ed-a13e-46f1-9711-a43aed8bcb02"
   },
   {
     "company": "Smile Student Living",
@@ -1133,7 +1133,7 @@
     "area": "Engineering",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "2 Bedroom",
+    "unit_type": "2 Bedroom 2 Bathroom",
     "beds": "2",
     "baths": "2",
     "sqft": "890",
@@ -1149,7 +1149,7 @@
     "utility_fees": "Water & Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1132313,
     "lng": -88.2328282,
-    "text": "405 E Stoughton, Champaign. 2 Bedroom: 2 bed, 2 bath. Price: $1099/bed per month, $2198/month total. Availability: Available now. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/df972074-9557-4f36-8d3e-291797fcf184"
+    "text": "405 E Stoughton, Champaign. 2 Bedroom 2 Bathroom: 2 bed, 2 bath. Price: $1099/bed per month, $2198/month total. Availability: Available now. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/df972074-9557-4f36-8d3e-291797fcf184"
   },
   {
     "company": "Smile Student Living",
@@ -1157,7 +1157,7 @@
     "area": "Midtown",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "2 Bedroom - High Floor (6th-7th)",
+    "unit_type": "2 Bedroom 2 Bathroom - High Floor (6th-7th)",
     "beds": "2",
     "baths": "2",
     "sqft": "890",
@@ -1173,7 +1173,7 @@
     "utility_fees": "Water & Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1132313,
     "lng": -88.2328282,
-    "text": "405 E Stoughton, Champaign. 2 Bedroom - High Floor (6th-7th): 2 bed, 2 bath. Price: $1079/bed per month, $2158/month total. Availability: Available August 17, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/1aa4a198-fa7d-44db-8e48-2394644b043f"
+    "text": "405 E Stoughton, Champaign. 2 Bedroom 2 Bathroom - High Floor (6th-7th): 2 bed, 2 bath. Price: $1079/bed per month, $2158/month total. Availability: Available August 17, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/1aa4a198-fa7d-44db-8e48-2394644b043f"
   },
   {
     "company": "Smile Student Living",
@@ -1181,7 +1181,7 @@
     "area": "Engineering",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "3 Bedroom",
+    "unit_type": "3 Bedroom 3 Bathroom",
     "beds": "3",
     "baths": "3",
     "sqft": "1170",
@@ -1197,7 +1197,7 @@
     "utility_fees": "Water & Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1132313,
     "lng": -88.2328282,
-    "text": "405 E Stoughton, Champaign. 3 Bedroom: 3 bed, 3 bath. Price: $979/bed per month, $2937/month total. Availability: Available now. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/6fb4c3c5-f33e-4882-9529-ab5003dcf2c8"
+    "text": "405 E Stoughton, Champaign. 3 Bedroom 3 Bathroom: 3 bed, 3 bath. Price: $979/bed per month, $2937/month total. Availability: Available now. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/6fb4c3c5-f33e-4882-9529-ab5003dcf2c8"
   },
   {
     "company": "Smile Student Living",
@@ -1205,7 +1205,7 @@
     "area": "Midtown",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "BTB in a 3x3",
+    "unit_type": "OLD - BTB in a 3x3",
     "beds": "3",
     "baths": "3",
     "sqft": "1170",
@@ -1221,7 +1221,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity - See Section 2.6",
     "lat": 40.1132313,
     "lng": -88.2328282,
-    "text": "405 E Stoughton, Champaign. BTB in a 3x3: 3 bed, 3 bath. Price: $969/bed per month, $2907/month total. Availability: Available August 17, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/0b41fdb2-74b6-4118-b5f1-4a86dbc9b9ab"
+    "text": "405 E Stoughton, Champaign. OLD - BTB in a 3x3: 3 bed, 3 bath. Price: $969/bed per month, $2907/month total. Availability: Available August 17, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/0b41fdb2-74b6-4118-b5f1-4a86dbc9b9ab"
   },
   {
     "company": "Smile Student Living",
@@ -1253,7 +1253,7 @@
     "area": "Midtown",
     "property_type": "Apartment",
     "roommate_match": false,
-    "unit_type": "1 Bedroom 1 Bath",
+    "unit_type": "1 Bedroom 1 Bathroom",
     "beds": "1",
     "baths": "1",
     "sqft": "480",
@@ -1269,7 +1269,7 @@
     "utility_fees": "Internet, Water, Sewer, Trash Service, Recycling, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1116946,
     "lng": -88.233217,
-    "text": "408 E Healey St, Champaign. 1 Bedroom 1 Bath: 1 bed, 1 bath. Price: $1399/bed per month, $1399/month total. Availability: Available now. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/337498ab-1f11-42dc-b7af-d30ed4d56e16"
+    "text": "408 E Healey St, Champaign. 1 Bedroom 1 Bathroom: 1 bed, 1 bath. Price: $1399/bed per month, $1399/month total. Availability: Available now. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/337498ab-1f11-42dc-b7af-d30ed4d56e16"
   },
   {
     "company": "Smile Student Living",
@@ -1277,7 +1277,7 @@
     "area": "Midtown",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "1 Bedroom 1 Bath - Top Floor",
+    "unit_type": "1 Bedroom 1 Bathroom - Top Floor",
     "beds": "1",
     "baths": "1",
     "sqft": "480",
@@ -1293,7 +1293,7 @@
     "utility_fees": "Internet, Water, Sewer, Trash Service, Recycling, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1116946,
     "lng": -88.233217,
-    "text": "408 E Healey St, Champaign. 1 Bedroom 1 Bath - Top Floor: 1 bed, 1 bath. Price: $1499/bed per month, $1499/month total. Availability: Available August 20, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/a6adf5c5-d325-4d5f-88fb-69c1fe3a4b77"
+    "text": "408 E Healey St, Champaign. 1 Bedroom 1 Bathroom - Top Floor: 1 bed, 1 bath. Price: $1499/bed per month, $1499/month total. Availability: Available August 20, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/a6adf5c5-d325-4d5f-88fb-69c1fe3a4b77"
   },
   {
     "company": "Smile Student Living",
@@ -1301,7 +1301,7 @@
     "area": "Midtown",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "2 Bedroom 1 Bath",
+    "unit_type": "2 Bedroom 1 Bathroom",
     "beds": "2",
     "baths": "1",
     "sqft": "660",
@@ -1317,7 +1317,7 @@
     "utility_fees": "Water, Internet, Sewer, Trash Service, Recycling, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1116946,
     "lng": -88.233217,
-    "text": "408 E Healey St, Champaign. 2 Bedroom 1 Bath: 2 bed, 1 bath. Price: $829/bed per month, $1658/month total. Availability: Available August 20, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/87fd89bd-625d-48d1-bcf5-be94a2c689d2"
+    "text": "408 E Healey St, Champaign. 2 Bedroom 1 Bathroom: 2 bed, 1 bath. Price: $829/bed per month, $1658/month total. Availability: Available August 20, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/87fd89bd-625d-48d1-bcf5-be94a2c689d2"
   },
   {
     "company": "Smile Student Living",
@@ -1325,7 +1325,7 @@
     "area": "Midtown",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "3 Bedroom 1 Bath",
+    "unit_type": "3 Bedroom 1 Bathroom",
     "beds": "3",
     "baths": "1",
     "sqft": "816",
@@ -1341,7 +1341,7 @@
     "utility_fees": "Internet, Water, Sewer, Trash Service, Recycling, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1116946,
     "lng": -88.233217,
-    "text": "408 E Healey St, Champaign. 3 Bedroom 1 Bath: 3 bed, 1 bath. Price: $669/bed per month, $2007/month total. Availability: Available August 20, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/9068c51e-6b22-4990-bce7-f2cc93ffc05e"
+    "text": "408 E Healey St, Champaign. 3 Bedroom 1 Bathroom: 3 bed, 1 bath. Price: $669/bed per month, $2007/month total. Availability: Available August 20, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/9068c51e-6b22-4990-bce7-f2cc93ffc05e"
   },
   {
     "company": "Smile Student Living",
@@ -1349,7 +1349,7 @@
     "area": "Midtown",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "4 Bedroom 2 Bath",
+    "unit_type": "4 Bedroom 2 Bathroom",
     "beds": "4",
     "baths": "2",
     "sqft": "1004",
@@ -1365,7 +1365,7 @@
     "utility_fees": "Internet, Water, Sewer, Trash Service, Recycling, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1116946,
     "lng": -88.233217,
-    "text": "408 E Healey St, Champaign. 4 Bedroom 2 Bath: 4 bed, 2 bath. Price: $749/bed per month, $2996/month total. Availability: Available now. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/3236b874-7fcc-4f92-a8d1-ce53211f1215"
+    "text": "408 E Healey St, Champaign. 4 Bedroom 2 Bathroom: 4 bed, 2 bath. Price: $749/bed per month, $2996/month total. Availability: Available now. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/3236b874-7fcc-4f92-a8d1-ce53211f1215"
   },
   {
     "company": "Smile Student Living",
@@ -1373,7 +1373,7 @@
     "area": "Midtown",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "4 Bedroom 2 Bath - Top Floor",
+    "unit_type": "4 Bedroom 2 Bathroom - Top Floor",
     "beds": "4",
     "baths": "2",
     "sqft": "1004",
@@ -1389,7 +1389,7 @@
     "utility_fees": "Internet, Water, Sewer, Trash Service, Recycling, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1116946,
     "lng": -88.233217,
-    "text": "408 E Healey St, Champaign. 4 Bedroom 2 Bath - Top Floor: 4 bed, 2 bath. Price: $719/bed per month, $2876/month total. Availability: Available August 20, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/a9afd690-2e9e-4c31-97ee-fa95a5ecf6b6"
+    "text": "408 E Healey St, Champaign. 4 Bedroom 2 Bathroom - Top Floor: 4 bed, 2 bath. Price: $719/bed per month, $2876/month total. Availability: Available August 20, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/a9afd690-2e9e-4c31-97ee-fa95a5ecf6b6"
   },
   {
     "company": "Smile Student Living",
@@ -1397,7 +1397,7 @@
     "area": "Midtown",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "1 Bedroom 1 Bath",
+    "unit_type": "1 Bedroom 1 Bathroom",
     "beds": "1",
     "baths": "1",
     "sqft": "428",
@@ -1413,7 +1413,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.112863,
     "lng": -88.233223,
-    "text": "408 E Springfield, Champaign. 1 Bedroom 1 Bath: 1 bed, 1 bath. Price: $1389/bed per month, $1389/month total. Availability: Available now. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/9e12ff87-f72f-4c98-8137-96a7402bd80b"
+    "text": "408 E Springfield, Champaign. 1 Bedroom 1 Bathroom: 1 bed, 1 bath. Price: $1389/bed per month, $1389/month total. Availability: Available now. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/9e12ff87-f72f-4c98-8137-96a7402bd80b"
   },
   {
     "company": "Smile Student Living",
@@ -1421,7 +1421,7 @@
     "area": "Midtown",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "2 Bedroom 1 Bath",
+    "unit_type": "2 Bedroom 1 Bathroom",
     "beds": "2",
     "baths": "1",
     "sqft": "540",
@@ -1437,7 +1437,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.112863,
     "lng": -88.233223,
-    "text": "408 E Springfield, Champaign. 2 Bedroom 1 Bath: 2 bed, 1 bath. Price: $719/bed per month, $1438/month total. Availability: Available August 20, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/2550dc6e-5674-44e8-b183-e27dc6f8bcad"
+    "text": "408 E Springfield, Champaign. 2 Bedroom 1 Bathroom: 2 bed, 1 bath. Price: $719/bed per month, $1438/month total. Availability: Available August 20, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/2550dc6e-5674-44e8-b183-e27dc6f8bcad"
   },
   {
     "company": "Smile Student Living",
@@ -1445,7 +1445,7 @@
     "area": "Midtown",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "2 Bedroom 2 Bath",
+    "unit_type": "2 Bedroom 2 Bathroom",
     "beds": "2",
     "baths": "2",
     "sqft": "722",
@@ -1461,7 +1461,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.112863,
     "lng": -88.233223,
-    "text": "408 E Springfield, Champaign. 2 Bedroom 2 Bath: 2 bed, 2 bath. Price: $899/bed per month, $1798/month total. Availability: Available August 20, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/0d0e687e-93ad-469a-9ff7-e764b819b037"
+    "text": "408 E Springfield, Champaign. 2 Bedroom 2 Bathroom: 2 bed, 2 bath. Price: $899/bed per month, $1798/month total. Availability: Available August 20, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/0d0e687e-93ad-469a-9ff7-e764b819b037"
   },
   {
     "company": "Smile Student Living",
@@ -1469,7 +1469,7 @@
     "area": "Midtown",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "3 Bedroom 2 Bath",
+    "unit_type": "3 Bedroom 2 Bathroom",
     "beds": "3",
     "baths": "2",
     "sqft": "909",
@@ -1485,7 +1485,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.112863,
     "lng": -88.233223,
-    "text": "408 E Springfield, Champaign. 3 Bedroom 2 Bath: 3 bed, 2 bath. Price: $719/bed per month, $2157/month total. Availability: Available August 20, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/cd6b82f7-8ef1-4952-8966-be13bd3fe7fc"
+    "text": "408 E Springfield, Champaign. 3 Bedroom 2 Bathroom: 3 bed, 2 bath. Price: $719/bed per month, $2157/month total. Availability: Available August 20, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/cd6b82f7-8ef1-4952-8966-be13bd3fe7fc"
   },
   {
     "company": "Smile Student Living",
@@ -1493,7 +1493,7 @@
     "area": "Midtown",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "4 Bedroom 2 Bath",
+    "unit_type": "4 Bedroom 2 Bathroom",
     "beds": "4",
     "baths": "2",
     "sqft": "1096",
@@ -1509,7 +1509,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.112863,
     "lng": -88.233223,
-    "text": "408 E Springfield, Champaign. 4 Bedroom 2 Bath: 4 bed, 2 bath. Price: $679/bed per month, $2716/month total. Availability: Available August 20, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/0257ec82-8dc0-4a09-9646-f27c043c4285"
+    "text": "408 E Springfield, Champaign. 4 Bedroom 2 Bathroom: 4 bed, 2 bath. Price: $679/bed per month, $2716/month total. Availability: Available August 20, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/0257ec82-8dc0-4a09-9646-f27c043c4285"
   },
   {
     "company": "Smile Student Living",
@@ -1517,7 +1517,7 @@
     "area": "Seniorland",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "BTB in a 3x3",
+    "unit_type": "OLD - BTB in a 3x3",
     "beds": "3",
     "baths": "3",
     "sqft": "330",
@@ -1533,7 +1533,7 @@
     "utility_fees": "Water & Sewer, Trash Service, Recycling, Internet, Electricity - $40 cap",
     "lat": 40.1093307,
     "lng": -88.2398927,
-    "text": "48 E John, Champaign. BTB in a 3x3: 3 bed, 3 bath. Price: $739/bed per month, $2217/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/15bd12e1-b550-4948-bd10-b7446b603da6"
+    "text": "48 E John, Champaign. OLD - BTB in a 3x3: 3 bed, 3 bath. Price: $739/bed per month, $2217/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/15bd12e1-b550-4948-bd10-b7446b603da6"
   },
   {
     "company": "Smile Student Living",
@@ -1541,7 +1541,7 @@
     "area": "Engineering",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "1 Bed 1 Bath",
+    "unit_type": "1 Bedroom 1 Bathroom",
     "beds": "1",
     "baths": "1",
     "sqft": "585",
@@ -1557,7 +1557,7 @@
     "utility_fees": "Water, Internet, Sewer, Recycling, Trash Service, Electricity - $60 allowance",
     "lat": 40.113224,
     "lng": -88.2316271,
-    "text": "503 E Stoughton Street, Champaign. 1 Bed 1 Bath: 1 bed, 1 bath. Price: $1659/bed per month, $1659/month total. Availability: Available August 16, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/0ba6fa82-03a9-4006-b4e3-465093e97c5a"
+    "text": "503 E Stoughton Street, Champaign. 1 Bedroom 1 Bathroom: 1 bed, 1 bath. Price: $1659/bed per month, $1659/month total. Availability: Available August 16, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/0ba6fa82-03a9-4006-b4e3-465093e97c5a"
   },
   {
     "company": "Smile Student Living",
@@ -1613,7 +1613,7 @@
     "area": "Gradland",
     "property_type": "Apartment",
     "roommate_match": false,
-    "unit_type": "2 Bedroom 1 Bath",
+    "unit_type": "2 Bedroom 1 Bathroom",
     "beds": "2",
     "baths": "1",
     "sqft": "600",
@@ -1629,7 +1629,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet",
     "lat": 40.111732,
     "lng": -88.2139589,
-    "text": "506 W Elm, Urbana. 2 Bedroom 1 Bath: 2 bed, 1 bath. Price: $430/bed per month, $860/month total. Availability: Available August 17, 2027. Area: Gradland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/1ca91a23-ce1f-4a5b-896a-3d33b23c2b47"
+    "text": "506 W Elm, Urbana. 2 Bedroom 1 Bathroom: 2 bed, 1 bath. Price: $430/bed per month, $860/month total. Availability: Available August 17, 2027. Area: Gradland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/1ca91a23-ce1f-4a5b-896a-3d33b23c2b47"
   },
   {
     "company": "Smile Student Living",
@@ -1637,7 +1637,7 @@
     "area": "Gradland",
     "property_type": "Apartment",
     "roommate_match": false,
-    "unit_type": "3 Bedroom 1 Bath",
+    "unit_type": "3 Bedroom 1 Bathroom",
     "beds": "3",
     "baths": "1",
     "sqft": "819",
@@ -1653,7 +1653,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet",
     "lat": 40.111732,
     "lng": -88.2139589,
-    "text": "506 W Elm, Urbana. 3 Bedroom 1 Bath: 3 bed, 1 bath. Price: $375/bed per month, $1125/month total. Availability: Available August 17, 2027. Area: Gradland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/293c919d-34ee-4b7f-858a-fab59cf35b38"
+    "text": "506 W Elm, Urbana. 3 Bedroom 1 Bathroom: 3 bed, 1 bath. Price: $375/bed per month, $1125/month total. Availability: Available August 17, 2027. Area: Gradland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/293c919d-34ee-4b7f-858a-fab59cf35b38"
   },
   {
     "company": "Smile Student Living",
@@ -1661,7 +1661,7 @@
     "area": "Engineering",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "1 Bedroom 1 Bath",
+    "unit_type": "1 Bedroom 1 Bathroom",
     "beds": "1",
     "baths": "1",
     "sqft": "380",
@@ -1677,7 +1677,7 @@
     "utility_fees": "Internet, Recycling, Trash Service, Water, Sewer",
     "lat": 40.1151372,
     "lng": -88.2311706,
-    "text": "507 E Clark, Champaign. 1 Bedroom 1 Bath: 1 bed, 1 bath. Price: $1080/bed per month, $1080/month total. Availability: Available August 18, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/0c6b156d-9167-48fd-9f71-b840b77fe88f"
+    "text": "507 E Clark, Champaign. 1 Bedroom 1 Bathroom: 1 bed, 1 bath. Price: $1080/bed per month, $1080/month total. Availability: Available August 18, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/0c6b156d-9167-48fd-9f71-b840b77fe88f"
   },
   {
     "company": "Smile Student Living",
@@ -1709,7 +1709,7 @@
     "area": "Engineering",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "1 Bedroom 1 Bath - First Floor",
+    "unit_type": "1 Bedroom 1 Bathroom - First Floor",
     "beds": "1",
     "baths": "1",
     "sqft": "476",
@@ -1725,7 +1725,7 @@
     "utility_fees": "Recycling, Internet, Water, Sewer, Trash Service",
     "lat": 40.1141771,
     "lng": -88.2311706,
-    "text": "507 E White, Champaign. 1 Bedroom 1 Bath - First Floor: 1 bed, 1 bath. Price: $1150/bed per month, $1150/month total. Availability: Available now. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/a1a9a5ed-beaa-48f8-b72c-ab5742e416fe"
+    "text": "507 E White, Champaign. 1 Bedroom 1 Bathroom - First Floor: 1 bed, 1 bath. Price: $1150/bed per month, $1150/month total. Availability: Available now. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/a1a9a5ed-beaa-48f8-b72c-ab5742e416fe"
   },
   {
     "company": "Smile Student Living",
@@ -1733,7 +1733,7 @@
     "area": "Engineering",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "1 Bedroom 1 Bath - Upper Floor",
+    "unit_type": "1 Bedroom 1 Bathroom - Upper Floor",
     "beds": "1",
     "baths": "1",
     "sqft": "476",
@@ -1749,7 +1749,7 @@
     "utility_fees": "Recycling, Internet, Trash Service, Water, Sewer",
     "lat": 40.1141771,
     "lng": -88.2311706,
-    "text": "507 E White, Champaign. 1 Bedroom 1 Bath - Upper Floor: 1 bed, 1 bath. Price: $1239/bed per month, $1239/month total. Availability: Available August 18, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/15937bce-0a92-448c-924f-3aa3312c7f50"
+    "text": "507 E White, Champaign. 1 Bedroom 1 Bathroom - Upper Floor: 1 bed, 1 bath. Price: $1239/bed per month, $1239/month total. Availability: Available August 18, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/15937bce-0a92-448c-924f-3aa3312c7f50"
   },
   {
     "company": "Smile Student Living",
@@ -1757,7 +1757,7 @@
     "area": "Midtown",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "1 Bedroom 1 Bath",
+    "unit_type": "1 Bedroom 1 Bathroom",
     "beds": "1",
     "baths": "1",
     "sqft": "558",
@@ -1773,7 +1773,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1118197,
     "lng": -88.2339856,
-    "text": "507 S Fourth, Champaign. 1 Bedroom 1 Bath: 1 bed, 1 bath. Price: $1439/bed per month, $1439/month total. Availability: Available now. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/042eca22-5cac-4423-93a1-2dc5e6fe86a2"
+    "text": "507 S Fourth, Champaign. 1 Bedroom 1 Bathroom: 1 bed, 1 bath. Price: $1439/bed per month, $1439/month total. Availability: Available now. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/042eca22-5cac-4423-93a1-2dc5e6fe86a2"
   },
   {
     "company": "Smile Student Living",
@@ -1781,7 +1781,7 @@
     "area": "Midtown",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "3 Bedroom 3 Bath",
+    "unit_type": "3 Bedroom 3 Bathroom",
     "beds": "3",
     "baths": "3",
     "sqft": "900",
@@ -1797,7 +1797,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1118197,
     "lng": -88.2339856,
-    "text": "507 S Fourth, Champaign. 3 Bedroom 3 Bath: 3 bed, 3 bath. Price: $780/bed per month, $2340/month total. Availability: Available August 20, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/651d181e-e658-4170-8991-4d43b9d22f10"
+    "text": "507 S Fourth, Champaign. 3 Bedroom 3 Bathroom: 3 bed, 3 bath. Price: $780/bed per month, $2340/month total. Availability: Available August 20, 2027. Area: Midtown. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/651d181e-e658-4170-8991-4d43b9d22f10"
   },
   {
     "company": "Smile Student Living",
@@ -1829,7 +1829,7 @@
     "area": "Engineering",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "2 Bedroom 1 Bath - Renovated First Floor",
+    "unit_type": "2 Bedroom 1 Bathroom - Renovated First Floor",
     "beds": "2",
     "baths": "1",
     "sqft": "766",
@@ -1845,7 +1845,7 @@
     "utility_fees": "Sewer, Trash Service, Recycling, 1GB fiber internet, Water, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1137736,
     "lng": -88.2309423,
-    "text": "510 E Stoughton, Champaign. 2 Bedroom 1 Bath - Renovated First Floor: 2 bed, 1 bath. Price: $799/bed per month, $1598/month total. Availability: Available August 18, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/a3e15396-1b2d-467c-be10-07b26ba3df83"
+    "text": "510 E Stoughton, Champaign. 2 Bedroom 1 Bathroom - Renovated First Floor: 2 bed, 1 bath. Price: $799/bed per month, $1598/month total. Availability: Available August 18, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/a3e15396-1b2d-467c-be10-07b26ba3df83"
   },
   {
     "company": "Smile Student Living",
@@ -1853,7 +1853,7 @@
     "area": "Engineering",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "1 Bed 1 Bath",
+    "unit_type": "1 Bedroom 1 Bathroom",
     "beds": "1",
     "baths": "1",
     "sqft": "578",
@@ -1869,7 +1869,7 @@
     "utility_fees": "Water & Sewer, Trash Service, Recycling, Internet, Electricity - $60 allowance",
     "lat": 40.1146537,
     "lng": -88.2309423,
-    "text": "510 E. White Street, Champaign. 1 Bed 1 Bath: 1 bed, 1 bath. Price: $1659/bed per month, $1659/month total. Availability: Available August 16, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/47bf456f-efca-4802-8858-6740160bbd99"
+    "text": "510 E. White Street, Champaign. 1 Bedroom 1 Bathroom: 1 bed, 1 bath. Price: $1659/bed per month, $1659/month total. Availability: Available August 16, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/47bf456f-efca-4802-8858-6740160bbd99"
   },
   {
     "company": "Smile Student Living",
@@ -1901,7 +1901,7 @@
     "area": "",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "1 Bedroom",
+    "unit_type": "1 Bedroom 1 Bathroom",
     "beds": "1",
     "baths": "1",
     "sqft": "600",
@@ -1909,7 +1909,7 @@
     "price_per_bed": "1650",
     "availability": "Available August 20, 2027",
     "url": "https://fairlawn.appfolio.com/listings/detail/a77bc62d-2d02-4f8d-82a8-be36226b37a3",
-    "photo_url": "https://images.cdn.appfolio.com/fairlawn/images/54c78d1b-d573-463a-a475-e64603200906/medium.jpg",
+    "photo_url": "https://images.cdn.appfolio.com/fairlawn/images/8fe6b8bd-311c-468b-aac8-858f5112f885/medium.png",
     "availability_summary": "Available August 2027",
     "tagline": "LIVE BRAND NEW August 2027 511 E White 1 Bedroom 1 Bathroom Apartment. Limited time only $250 Giftcard!*",
     "description": "1x1 at 511 E White- August 2027 - Fully Furnished - In-Unit Laundry 1 Bedroom 1 Bathroom - $1,650 A utility fee of $190 covers internet, water, sewer, trash, recycling, and electricity*. Your choice: $350 admin fee OR a security deposit (equal to one month's rent before discounts) Pet policy: We allow up to 2 pets per apartment with no breed or size restrictions on joint and several leases. Pets are not permitted on individual leases. We require a $350 non-refundable fee per pet due at move-in and a $40/month pet rent per pet. PetScreening is required for pets at $30 per pet annually ($25 with ACH). Fees do not apply to assistance animals. *- charges for excessive electricity usage - Ask Smile team for more information * Limited availability on Gift Card.",
@@ -1917,7 +1917,7 @@
     "utility_fees": "Internet, Water, Sewer, Trash Service, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1142083,
     "lng": -88.2306933,
-    "text": "511 E White, Champaign. 1 Bedroom: 1 bed, 1 bath. Price: $1650/bed per month, $1650/month total. Availability: Available August 20, 2027. Area: . Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/a77bc62d-2d02-4f8d-82a8-be36226b37a3"
+    "text": "511 E White, Champaign. 1 Bedroom 1 Bathroom: 1 bed, 1 bath. Price: $1650/bed per month, $1650/month total. Availability: Available August 20, 2027. Area: . Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/a77bc62d-2d02-4f8d-82a8-be36226b37a3"
   },
   {
     "company": "Smile Student Living",
@@ -1925,7 +1925,7 @@
     "area": "",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "2 Bedroom",
+    "unit_type": "2 Bedroom 2 Bathroom",
     "beds": "2",
     "baths": "2",
     "sqft": "800",
@@ -1933,7 +1933,7 @@
     "price_per_bed": "1220",
     "availability": "Available August 20, 2027",
     "url": "https://fairlawn.appfolio.com/listings/detail/f4f24c04-af30-459b-b0eb-7603ac045178",
-    "photo_url": "https://images.cdn.appfolio.com/fairlawn/images/13e09bf1-ee05-44e3-94be-0cac156eb089/medium.jpg",
+    "photo_url": "https://images.cdn.appfolio.com/fairlawn/images/07b41ae7-508a-495b-a51f-e048c78ba003/medium.png",
     "availability_summary": "Available August 2027",
     "tagline": "LIVE BRAND NEW August 2027 511 E White 2 Bedroom 2 Bathroom Apartment. Limited time only $250 Giftcard!*",
     "description": "2x2 at 511 E White - August 2027 - Fully Furnished - In-Unit Laundry 2 Bedroom 2 Bathroom - $1,220 A utility fee of $130 covers internet, water, sewer, trash, recycling, and electricity*. Your choice: $350 admin fee OR a security deposit (equal to one month's rent before discounts) Prices displayed are for individual leases. This property offers both individual and joint and several leasing options. Please contact Smile Student Living for more information. Pet policy: We allow up to 2 pets per apartment with no breed or size restrictions on joint and several leases. Pets are not permitted on individual leases. We require a $350 non-refundable fee per pet due at move-in and a $40/month pet rent per pet. Pet Screening is required for pets at $30 per pet annually ($25 with ACH). Fees do not apply to assistance animals. *- charges for excessive electricity usage - Ask Smile team for more information * Limited availability on Gift Card.",
@@ -1941,7 +1941,7 @@
     "utility_fees": "Internet, Water, Sewer, Trash Service, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1142083,
     "lng": -88.2306933,
-    "text": "511 E White, Champaign. 2 Bedroom: 2 bed, 2 bath. Price: $1220/bed per month, $2440/month total. Availability: Available August 20, 2027. Area: . Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/f4f24c04-af30-459b-b0eb-7603ac045178"
+    "text": "511 E White, Champaign. 2 Bedroom 2 Bathroom: 2 bed, 2 bath. Price: $1220/bed per month, $2440/month total. Availability: Available August 20, 2027. Area: . Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/f4f24c04-af30-459b-b0eb-7603ac045178"
   },
   {
     "company": "Smile Student Living",
@@ -1949,7 +1949,7 @@
     "area": "",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "3 Bedroom",
+    "unit_type": "3 Bedroom 3 Bathroom",
     "beds": "3",
     "baths": "3",
     "sqft": "1000",
@@ -1957,7 +1957,7 @@
     "price_per_bed": "1020",
     "availability": "Available August 20, 2027",
     "url": "https://fairlawn.appfolio.com/listings/detail/93607926-cf50-4e93-81e3-910ade0ec623",
-    "photo_url": "https://images.cdn.appfolio.com/fairlawn/images/1e2345ec-6cd3-4d19-bd60-664be48ef707/medium.jpg",
+    "photo_url": "https://images.cdn.appfolio.com/fairlawn/images/1ae1c51d-46d0-4931-a83f-c95fa16b035f/medium.png",
     "availability_summary": "Available August 2027",
     "tagline": "LIVE BRAND NEW August 2027 511 E White 3 Bedroom 3 Bathroom Apartment. Limited time only $250 Giftcard!*",
     "description": "3x3 at 511 E White - August 2027 - Fully Furnished - In-Unit Laundry 3 Bedroom 3 Bathroom - $1,020 A utility fee of $130 covers internet, water, sewer, trash, recycling, and electricity*. Your choice: $350 admin fee OR a security deposit (equal to one month's rent before discounts) Prices displayed are for individual leases. This property offers both individual and joint and several leasing options. Please contact Smile Student Living for more information. Pet policy: We allow up to 2 pets per apartment with no breed or size restrictions on joint and several leases. Pets are not permitted on individual leases. We require a $350 non-refundable fee per pet due at move-in and a $40/month pet rent per pet. Pet Screening is required for pets at $30 per pet annually ($25 with ACH). Fees do not apply to assistance animals. *- charges for excessive electricity usage - Ask Smile team for more information * Limited availability on Gift Card.",
@@ -1965,7 +1965,7 @@
     "utility_fees": "",
     "lat": 40.1142083,
     "lng": -88.2306933,
-    "text": "511 E White, Champaign. 3 Bedroom: 3 bed, 3 bath. Price: $1020/bed per month, $3060/month total. Availability: Available August 20, 2027. Area: . Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/93607926-cf50-4e93-81e3-910ade0ec623"
+    "text": "511 E White, Champaign. 3 Bedroom 3 Bathroom: 3 bed, 3 bath. Price: $1020/bed per month, $3060/month total. Availability: Available August 20, 2027. Area: . Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/93607926-cf50-4e93-81e3-910ade0ec623"
   },
   {
     "company": "Smile Student Living",
@@ -1973,7 +1973,7 @@
     "area": "",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "4 Bedroom",
+    "unit_type": "4 Bedroom 4 Bathroom",
     "beds": "4",
     "baths": "4",
     "sqft": "1200",
@@ -1981,7 +1981,7 @@
     "price_per_bed": "950",
     "availability": "Available August 20, 2027",
     "url": "https://fairlawn.appfolio.com/listings/detail/09129911-a415-4949-9ffa-1517b8baa21a",
-    "photo_url": "https://images.cdn.appfolio.com/fairlawn/images/d1df8242-285b-4a2b-96d1-0249a5b9caef/medium.jpg",
+    "photo_url": "https://images.cdn.appfolio.com/fairlawn/images/c93202f3-b6b5-4dd4-aa63-723c5ab12e87/medium.png",
     "availability_summary": "Available August 2027",
     "tagline": "LIVE BRAND NEW August 2027 511 E White 4 Bedroom 4 Bathroom Apartment. Limited time only $250 Giftcard!*",
     "description": "4x4 at 511 E White - August 2027 - Fully Furnished - In-Unit Laundry 4 Bedroom 4 Bathroom - $950 A utility fee of $130 covers internet, water, sewer, trash, recycling, and electricity*. Your choice: $350 admin fee OR a security deposit (equal to one month's rent before discounts) Prices displayed are for individual leases. This property offers both individual and joint and several leasing options. Please contact Smile Student Living for more information. Pet policy: We allow up to 2 pets per apartment with no breed or size restrictions on joint and several leases. Pets are not permitted on individual leases. We require a $350 non-refundable fee per pet due at move-in and a $40/month pet rent per pet. Pet Screening is required for pets at $30 per pet annually ($25 with ACH). Fees do not apply to assistance animals. *- charges for excessive electricity usage - Ask Smile team for more information * Limited availability on Gift Card.",
@@ -1989,7 +1989,7 @@
     "utility_fees": "Internet, Water, Sewer, Trash Service, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1142083,
     "lng": -88.2306933,
-    "text": "511 E White, Champaign. 4 Bedroom: 4 bed, 4 bath. Price: $950/bed per month, $3800/month total. Availability: Available August 20, 2027. Area: . Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/09129911-a415-4949-9ffa-1517b8baa21a"
+    "text": "511 E White, Champaign. 4 Bedroom 4 Bathroom: 4 bed, 4 bath. Price: $950/bed per month, $3800/month total. Availability: Available August 20, 2027. Area: . Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/09129911-a415-4949-9ffa-1517b8baa21a"
   },
   {
     "company": "Smile Student Living",
@@ -2005,7 +2005,7 @@
     "price_per_bed": "1500",
     "availability": "Available August 20, 2027",
     "url": "https://fairlawn.appfolio.com/listings/detail/01e58e5f-10ae-4ed3-88c1-a4cfc398bff1",
-    "photo_url": "https://images.cdn.appfolio.com/fairlawn/images/30de8d26-0bf5-4cea-b214-b48fce6270cb/medium.jpg",
+    "photo_url": "https://images.cdn.appfolio.com/fairlawn/images/4b90b29d-ef57-4c6b-a7b0-92782ae4d597/medium.png",
     "availability_summary": "Available August 2027",
     "tagline": "LIVE BRAND NEW August 2027 511 E White Studio Apartment. Limited time only $250 Giftcard!*",
     "description": "Studio at 511 E White - August 2027 - Fully Furnished - In-Unit Laundry Studio - $1,500 A utility fee of $130 covers internet, water, sewer, trash, recycling, and electricity*. Your choice: $350 admin fee OR a security deposit (equal to one month's rent before discounts) Pet policy: We allow up to 2 pets per apartment with no breed or size restrictions on joint and several leases. Pets are not permitted on individual leases. We require a $350 non-refundable fee per pet due at move-in and a $40/month pet rent per pet. Pet Screening is required for pets at $30 per pet annually ($25 with ACH). Fees do not apply to assistance animals. *- charges for excessive electricity usage - Ask Smile team for more information * Limited availability on Gift Card.",
@@ -2021,7 +2021,7 @@
     "area": "Engineering",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "1 Bedroom 1 Bath",
+    "unit_type": "1 Bedroom 1 Bathroom",
     "beds": "1",
     "baths": "1",
     "sqft": "380",
@@ -2037,7 +2037,7 @@
     "utility_fees": "Internet, Recycling, Trash Service, Water, Sewer",
     "lat": 40.1156102,
     "lng": -88.2307141,
-    "text": "512 E Clark, Champaign. 1 Bedroom 1 Bath: 1 bed, 1 bath. Price: $1080/bed per month, $1080/month total. Availability: Available August 18, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/b30e96f8-1c08-452a-97aa-9c8034e86114"
+    "text": "512 E Clark, Champaign. 1 Bedroom 1 Bathroom: 1 bed, 1 bath. Price: $1080/bed per month, $1080/month total. Availability: Available August 18, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/b30e96f8-1c08-452a-97aa-9c8034e86114"
   },
   {
     "company": "Smile Student Living",
@@ -2069,7 +2069,7 @@
     "area": "Seniorland",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "1 x 1",
+    "unit_type": "1 Bedroom 1 Bathroom",
     "beds": "1",
     "baths": "1",
     "sqft": "457",
@@ -2085,7 +2085,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.105707,
     "lng": -88.2399,
-    "text": "52 E Armory, Champaign. 1 x 1: 1 bed, 1 bath. Price: $1249/bed per month, $1249/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/cc3aae34-7ff9-4b6d-aee5-4853213087b3"
+    "text": "52 E Armory, Champaign. 1 Bedroom 1 Bathroom: 1 bed, 1 bath. Price: $1249/bed per month, $1249/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/cc3aae34-7ff9-4b6d-aee5-4853213087b3"
   },
   {
     "company": "Smile Student Living",
@@ -2093,7 +2093,7 @@
     "area": "Seniorland",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "2 x 1",
+    "unit_type": "2 Bedroom 1 Bathroom",
     "beds": "2",
     "baths": "1",
     "sqft": "630",
@@ -2109,7 +2109,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.105707,
     "lng": -88.2399,
-    "text": "52 E Armory, Champaign. 2 x 1: 2 bed, 1 bath. Price: $749/bed per month, $1498/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/eec13d6d-65cd-44ba-8d7d-f9fe3ac57528"
+    "text": "52 E Armory, Champaign. 2 Bedroom 1 Bathroom: 2 bed, 1 bath. Price: $749/bed per month, $1498/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/eec13d6d-65cd-44ba-8d7d-f9fe3ac57528"
   },
   {
     "company": "Smile Student Living",
@@ -2117,7 +2117,7 @@
     "area": "Seniorland",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "2 x 2",
+    "unit_type": "2 Bedroom 2 Bathroom",
     "beds": "2",
     "baths": "2",
     "sqft": "670",
@@ -2133,7 +2133,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.105707,
     "lng": -88.2399,
-    "text": "52 E Armory, Champaign. 2 x 2: 2 bed, 2 bath. Price: $869/bed per month, $1738/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/8a461701-a4b4-4cd9-99e4-83c97cf8fcb2"
+    "text": "52 E Armory, Champaign. 2 Bedroom 2 Bathroom: 2 bed, 2 bath. Price: $869/bed per month, $1738/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/8a461701-a4b4-4cd9-99e4-83c97cf8fcb2"
   },
   {
     "company": "Smile Student Living",
@@ -2141,7 +2141,7 @@
     "area": "Seniorland",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "1 Bedroom 1 Bath",
+    "unit_type": "1 Bedroom 1 Bathroom",
     "beds": "1",
     "baths": "1",
     "sqft": "475",
@@ -2157,7 +2157,7 @@
     "utility_fees": "Internet, Water, Sewer, Recycling, Trash Service, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1062165,
     "lng": -88.2394687,
-    "text": "57 E Chalmers Street, Champaign. 1 Bedroom 1 Bath: 1 bed, 1 bath. Price: $1299/bed per month, $1299/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/adf15a15-e5ae-4546-8f76-fcffda04ad19"
+    "text": "57 E Chalmers Street, Champaign. 1 Bedroom 1 Bathroom: 1 bed, 1 bath. Price: $1299/bed per month, $1299/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/adf15a15-e5ae-4546-8f76-fcffda04ad19"
   },
   {
     "company": "Smile Student Living",
@@ -2165,7 +2165,7 @@
     "area": "Seniorland",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "2 Bedroom 2 Bath",
+    "unit_type": "2 Bedroom 2 Bathroom",
     "beds": "2",
     "baths": "2",
     "sqft": "740",
@@ -2181,7 +2181,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Internet, Recycling, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1062165,
     "lng": -88.2394687,
-    "text": "57 E Chalmers Street, Champaign. 2 Bedroom 2 Bath: 2 bed, 2 bath. Price: $929/bed per month, $1858/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/ab6a3562-1918-4f77-8176-d5ba48707cff"
+    "text": "57 E Chalmers Street, Champaign. 2 Bedroom 2 Bathroom: 2 bed, 2 bath. Price: $929/bed per month, $1858/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/ab6a3562-1918-4f77-8176-d5ba48707cff"
   },
   {
     "company": "Smile Student Living",
@@ -2189,7 +2189,7 @@
     "area": "Seniorland",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "4 Bedroom 2 Bath",
+    "unit_type": "4 Bedroom 2 Bathroom",
     "beds": "4",
     "baths": "2",
     "sqft": "1094",
@@ -2205,7 +2205,7 @@
     "utility_fees": "Internet, Trash Service, Recycling, Water, Sewer, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1062165,
     "lng": -88.2394687,
-    "text": "57 E Chalmers Street, Champaign. 4 Bedroom 2 Bath: 4 bed, 2 bath. Price: $609/bed per month, $2436/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/177fc377-2f68-4502-8f55-e3ffbd64755f"
+    "text": "57 E Chalmers Street, Champaign. 4 Bedroom 2 Bathroom: 4 bed, 2 bath. Price: $609/bed per month, $2436/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/177fc377-2f68-4502-8f55-e3ffbd64755f"
   },
   {
     "company": "Smile Student Living",
@@ -2213,7 +2213,7 @@
     "area": "Engineering",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "4 x 2 - First Floor",
+    "unit_type": "4 Bedroom 2 Bathroom - First Floor",
     "beds": "4",
     "baths": "2",
     "sqft": "1225",
@@ -2229,7 +2229,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.113766,
     "lng": -88.229701,
-    "text": "606 E Stoughton, Champaign. 4 x 2 - First Floor: 4 bed, 2 bath. Price: $749/bed per month, $2996/month total. Availability: Available now. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/8a932f72-6406-4755-9067-c37b85144e09"
+    "text": "606 E Stoughton, Champaign. 4 Bedroom 2 Bathroom - First Floor: 4 bed, 2 bath. Price: $749/bed per month, $2996/month total. Availability: Available now. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/8a932f72-6406-4755-9067-c37b85144e09"
   },
   {
     "company": "Smile Student Living",
@@ -2237,7 +2237,7 @@
     "area": "Engineering",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "4 x 3",
+    "unit_type": "4 Bedroom 3 Bathroom",
     "beds": "4",
     "baths": "3",
     "sqft": "1503",
@@ -2253,7 +2253,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.113766,
     "lng": -88.229701,
-    "text": "606 E Stoughton, Champaign. 4 x 3: 4 bed, 3 bath. Price: $839/bed per month, $3356/month total. Availability: Available August 16, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/5fb42096-115f-476a-b6fd-9055ec99fa59"
+    "text": "606 E Stoughton, Champaign. 4 Bedroom 3 Bathroom: 4 bed, 3 bath. Price: $839/bed per month, $3356/month total. Availability: Available August 16, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/5fb42096-115f-476a-b6fd-9055ec99fa59"
   },
   {
     "company": "Smile Student Living",
@@ -2261,7 +2261,7 @@
     "area": "Engineering",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "BTB in a 4x2 - Upper Floors",
+    "unit_type": "OLD - BTB in a 4x2 - Upper Floors",
     "beds": "4",
     "baths": "2",
     "sqft": "316",
@@ -2277,7 +2277,7 @@
     "utility_fees": "Water & Sewer, Trash Service, Recycling, Internet, Electricity - $40 cap",
     "lat": 40.113766,
     "lng": -88.229701,
-    "text": "606 E Stoughton, Champaign. BTB in a 4x2 - Upper Floors: 4 bed, 2 bath. Price: $799/bed per month, $3196/month total. Availability: Available August 16, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/51abe5dc-1227-42a8-8387-f6c30931f26c"
+    "text": "606 E Stoughton, Champaign. OLD - BTB in a 4x2 - Upper Floors: 4 bed, 2 bath. Price: $799/bed per month, $3196/month total. Availability: Available August 16, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/51abe5dc-1227-42a8-8387-f6c30931f26c"
   },
   {
     "company": "Smile Student Living",
@@ -2285,7 +2285,7 @@
     "area": "Quad View",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "2 Bed 2 Bath - High Floor (6th-7th)",
+    "unit_type": "2 Bedroom 2 Bathroom - High Floor (6th-7th)",
     "beds": "2",
     "baths": "2",
     "sqft": "880",
@@ -2301,7 +2301,7 @@
     "utility_fees": "Internet, Water, Recycling, Sewer, Trash Service, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1071666,
     "lng": -88.2295769,
-    "text": "608 E Chalmers St, Champaign. 2 Bed 2 Bath - High Floor (6th-7th): 2 bed, 2 bath. Price: $1309/bed per month, $2618/month total. Availability: Available August 19, 2027. Area: Quad View. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/938deaae-77bb-4bb6-9d80-6b5fb638bf02"
+    "text": "608 E Chalmers St, Champaign. 2 Bedroom 2 Bathroom - High Floor (6th-7th): 2 bed, 2 bath. Price: $1309/bed per month, $2618/month total. Availability: Available August 19, 2027. Area: Quad View. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/938deaae-77bb-4bb6-9d80-6b5fb638bf02"
   },
   {
     "company": "Smile Student Living",
@@ -2309,7 +2309,7 @@
     "area": "",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "3 Bed 3 Bath - High Floor (6th-7th)",
+    "unit_type": "3 Bedroom 3 Bathroom - High Floor (6th-7th)",
     "beds": "3",
     "baths": "3",
     "sqft": "1145",
@@ -2325,7 +2325,7 @@
     "utility_fees": "Internet, Water, Recycling, Sewer, Trash Service, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1071666,
     "lng": -88.2295769,
-    "text": "608 E Chalmers St, Champaign. 3 Bed 3 Bath - High Floor (6th-7th): 3 bed, 3 bath. Price: $1139/bed per month, $3417/month total. Availability: Available August 19, 2027. Area: . Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/0aa72465-a6bf-4678-95db-af52f941b98d"
+    "text": "608 E Chalmers St, Champaign. 3 Bedroom 3 Bathroom - High Floor (6th-7th): 3 bed, 3 bath. Price: $1139/bed per month, $3417/month total. Availability: Available August 19, 2027. Area: . Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/0aa72465-a6bf-4678-95db-af52f941b98d"
   },
   {
     "company": "Smile Student Living",
@@ -2333,7 +2333,7 @@
     "area": "Quad View",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "Z 1 Bedroom A",
+    "unit_type": "OLD - 1 Bedroom A",
     "beds": "1",
     "baths": "1",
     "sqft": "610",
@@ -2349,7 +2349,7 @@
     "utility_fees": "Water, Recycling, Sewer, Trash Service, Internet, Electricity - See Section 2.6",
     "lat": 40.1071666,
     "lng": -88.2295769,
-    "text": "608 E Chalmers St, Champaign. Z 1 Bedroom A: 1 bed, 1 bath. Price: $1929/bed per month, $1929/month total. Availability: Available August 19, 2027. Area: Quad View. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/b37dd887-23c9-4624-b274-e7ac933a26b9"
+    "text": "608 E Chalmers St, Champaign. OLD - 1 Bedroom A: 1 bed, 1 bath. Price: $1929/bed per month, $1929/month total. Availability: Available August 19, 2027. Area: Quad View. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/b37dd887-23c9-4624-b274-e7ac933a26b9"
   },
   {
     "company": "Smile Student Living",
@@ -2357,7 +2357,7 @@
     "area": "Quad View",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "Z 2 Bed 2 Bath",
+    "unit_type": "OLD - 2 Bed 2 Bath",
     "beds": "2",
     "baths": "2",
     "sqft": "880",
@@ -2373,7 +2373,7 @@
     "utility_fees": "Internet, Water, Recycling, Sewer, Trash Service, Electricity - See Section 2.6",
     "lat": 40.1071666,
     "lng": -88.2295769,
-    "text": "608 E Chalmers St, Champaign. Z 2 Bed 2 Bath: 2 bed, 2 bath. Price: $1299/bed per month, $2598/month total. Availability: Available now. Area: Quad View. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/a7ec146a-58d9-452d-9784-ea54c403253b"
+    "text": "608 E Chalmers St, Champaign. OLD - 2 Bed 2 Bath: 2 bed, 2 bath. Price: $1299/bed per month, $2598/month total. Availability: Available now. Area: Quad View. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/a7ec146a-58d9-452d-9784-ea54c403253b"
   },
   {
     "company": "Smile Student Living",
@@ -2381,7 +2381,7 @@
     "area": "Quad View",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "Z 3 Bed 3 Bath",
+    "unit_type": "OLD - 3 Bed 3 Bath",
     "beds": "3",
     "baths": "3",
     "sqft": "1145",
@@ -2397,7 +2397,7 @@
     "utility_fees": "Internet, Water, Recycling, Sewer, Trash Service, Electricity - See Section 2.6",
     "lat": 40.1071666,
     "lng": -88.2295769,
-    "text": "608 E Chalmers St, Champaign. Z 3 Bed 3 Bath: 3 bed, 3 bath. Price: $1029/bed per month, $3087/month total. Availability: Available now. Area: Quad View. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/d59b4d1f-9e7d-40a8-a4c7-92c2dccae81e"
+    "text": "608 E Chalmers St, Champaign. OLD - 3 Bed 3 Bath: 3 bed, 3 bath. Price: $1029/bed per month, $3087/month total. Availability: Available now. Area: Quad View. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/d59b4d1f-9e7d-40a8-a4c7-92c2dccae81e"
   },
   {
     "company": "Smile Student Living",
@@ -2405,7 +2405,7 @@
     "area": "Quad View",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "Z 4 Bed 4 Bath",
+    "unit_type": "OLD - 4 Bed 4 Bath",
     "beds": "4",
     "baths": "4",
     "sqft": "1317",
@@ -2421,7 +2421,7 @@
     "utility_fees": "Internet, Water, Recycling, Sewer, Trash Service, Electricity - See Section 2.6",
     "lat": 40.1071666,
     "lng": -88.2295769,
-    "text": "608 E Chalmers St, Champaign. Z 4 Bed 4 Bath: 4 bed, 4 bath. Price: $1019/bed per month, $4076/month total. Availability: Available August 19, 2027. Area: Quad View. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/7698c9a7-0c35-4c63-856a-db8896e48175"
+    "text": "608 E Chalmers St, Champaign. OLD - 4 Bed 4 Bath: 4 bed, 4 bath. Price: $1019/bed per month, $4076/month total. Availability: Available August 19, 2027. Area: Quad View. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/7698c9a7-0c35-4c63-856a-db8896e48175"
   },
   {
     "company": "Smile Student Living",
@@ -2429,7 +2429,7 @@
     "area": "Quad View",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "Z 4 Bed 4 Bath",
+    "unit_type": "OLD - 4 Bed 4 Bath",
     "beds": "4",
     "baths": "4",
     "sqft": "1317",
@@ -2445,7 +2445,7 @@
     "utility_fees": "Internet, Water, Recycling, Sewer, Trash Service, Electricity - See Section 2.6",
     "lat": 40.1071666,
     "lng": -88.2295769,
-    "text": "608 E Chalmers St, Champaign. Z 4 Bed 4 Bath: 4 bed, 4 bath. Price: $979/bed per month, $3916/month total. Availability: Available now. Area: Quad View. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/5165b1d4-93f2-4139-a596-70d952585079"
+    "text": "608 E Chalmers St, Champaign. OLD - 4 Bed 4 Bath: 4 bed, 4 bath. Price: $979/bed per month, $3916/month total. Availability: Available now. Area: Quad View. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/5165b1d4-93f2-4139-a596-70d952585079"
   },
   {
     "company": "Smile Student Living",
@@ -2453,7 +2453,7 @@
     "area": "Quad View",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "Z Studio",
+    "unit_type": "OLD - Studio",
     "beds": "0",
     "baths": "1",
     "sqft": "435",
@@ -2469,7 +2469,7 @@
     "utility_fees": "Internet, Water, Recycling, Sewer, Trash Service, Electricity - See Section 2.6",
     "lat": 40.1071666,
     "lng": -88.2295769,
-    "text": "608 E Chalmers St, Champaign. Z Studio: 0 bed, 1 bath. Price: $1719/bed per month, $1719/month total. Availability: Available August 19, 2027. Area: Quad View. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/23c93fbb-1d6e-413c-93f7-f54c340e7d56"
+    "text": "608 E Chalmers St, Champaign. OLD - Studio: 0 bed, 1 bath. Price: $1719/bed per month, $1719/month total. Availability: Available August 19, 2027. Area: Quad View. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/23c93fbb-1d6e-413c-93f7-f54c340e7d56"
   },
   {
     "company": "Smile Student Living",
@@ -2477,7 +2477,7 @@
     "area": "",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "2 Bedroom 2 Bath",
+    "unit_type": "2 Bedroom 2 Bathroom",
     "beds": "2",
     "baths": "2",
     "sqft": "702",
@@ -2493,7 +2493,7 @@
     "utility_fees": "Internet, Water, Sewer, Recycling, Trash Service, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1147117,
     "lng": -88.2294967,
-    "text": "608 E White Street, Champaign. 2 Bedroom 2 Bath: 2 bed, 2 bath. Price: $979/bed per month, $1958/month total. Availability: Available August 18, 2027. Area: . Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/1d9913aa-4c9a-4fa2-9bf1-0d83c1f0564e"
+    "text": "608 E White Street, Champaign. 2 Bedroom 2 Bathroom: 2 bed, 2 bath. Price: $979/bed per month, $1958/month total. Availability: Available August 18, 2027. Area: . Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/1d9913aa-4c9a-4fa2-9bf1-0d83c1f0564e"
   },
   {
     "company": "Smile Student Living",
@@ -2501,7 +2501,7 @@
     "area": "Engineering",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "3 Bedroom 2 Bath",
+    "unit_type": "3 Bedroom 2 Bathroom",
     "beds": "3",
     "baths": "2",
     "sqft": "814",
@@ -2517,7 +2517,7 @@
     "utility_fees": "Internet, Water, Sewer, Recycling, Trash Service, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1147117,
     "lng": -88.2294967,
-    "text": "608 E White Street, Champaign. 3 Bedroom 2 Bath: 3 bed, 2 bath. Price: $749/bed per month, $2247/month total. Availability: Available August 18, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/cc4cb26b-b649-4c65-946f-3f756f11aaab"
+    "text": "608 E White Street, Champaign. 3 Bedroom 2 Bathroom: 3 bed, 2 bath. Price: $749/bed per month, $2247/month total. Availability: Available August 18, 2027. Area: Engineering. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/cc4cb26b-b649-4c65-946f-3f756f11aaab"
   },
   {
     "company": "Smile Student Living",
@@ -2549,7 +2549,7 @@
     "area": "Quad View",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "2 Bedroom 1 Bath",
+    "unit_type": "2 Bedroom 1 Bathroom",
     "beds": "2",
     "baths": "1",
     "sqft": "760",
@@ -2565,7 +2565,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Internet, Recycling, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1109984,
     "lng": -88.2290655,
-    "text": "615 S Wright, Champaign. 2 Bedroom 1 Bath: 2 bed, 1 bath. Price: $1084/bed per month, $2168/month total. Availability: Available now. Area: Quad View. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/8aa0338f-f838-460a-a0f2-b41221e083c2"
+    "text": "615 S Wright, Champaign. 2 Bedroom 1 Bathroom: 2 bed, 1 bath. Price: $1084/bed per month, $2168/month total. Availability: Available now. Area: Quad View. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/8aa0338f-f838-460a-a0f2-b41221e083c2"
   },
   {
     "company": "Smile Student Living",
@@ -2573,7 +2573,7 @@
     "area": "Quad View",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "2 Bedroom 2 Bath",
+    "unit_type": "2 Bedroom 2 Bathroom",
     "beds": "2",
     "baths": "2",
     "sqft": "800",
@@ -2589,7 +2589,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1109984,
     "lng": -88.2290655,
-    "text": "615 S Wright, Champaign. 2 Bedroom 2 Bath: 2 bed, 2 bath. Price: $1219/bed per month, $2438/month total. Availability: Available August 19, 2027. Area: Quad View. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/34370424-6d0e-46c3-8462-b93659ab9d34"
+    "text": "615 S Wright, Champaign. 2 Bedroom 2 Bathroom: 2 bed, 2 bath. Price: $1219/bed per month, $2438/month total. Availability: Available August 19, 2027. Area: Quad View. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/34370424-6d0e-46c3-8462-b93659ab9d34"
   },
   {
     "company": "Smile Student Living",
@@ -2597,7 +2597,7 @@
     "area": "Quad View",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "3 Bedroom 2 Bath",
+    "unit_type": "3 Bedroom 2 Bathroom",
     "beds": "3",
     "baths": "2",
     "sqft": "900",
@@ -2613,7 +2613,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1109984,
     "lng": -88.2290655,
-    "text": "615 S Wright, Champaign. 3 Bedroom 2 Bath: 3 bed, 2 bath. Price: $989/bed per month, $2967/month total. Availability: Available August 19, 2027. Area: Quad View. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/6c6ae3ba-6eba-4156-bea5-3e2f89f67003"
+    "text": "615 S Wright, Champaign. 3 Bedroom 2 Bathroom: 3 bed, 2 bath. Price: $989/bed per month, $2967/month total. Availability: Available August 19, 2027. Area: Quad View. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/6c6ae3ba-6eba-4156-bea5-3e2f89f67003"
   },
   {
     "company": "Smile Student Living",
@@ -2621,7 +2621,7 @@
     "area": "Quad View",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "3 Bedroom 2 Bath",
+    "unit_type": "3 Bedroom 2 Bathroom",
     "beds": "3",
     "baths": "2",
     "sqft": "900",
@@ -2637,7 +2637,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1109984,
     "lng": -88.2290655,
-    "text": "615 S Wright, Champaign. 3 Bedroom 2 Bath: 3 bed, 2 bath. Price: $789/bed per month, $2367/month total. Availability: Available now. Area: Quad View. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/45437575-688e-405d-8790-11843c20260d"
+    "text": "615 S Wright, Champaign. 3 Bedroom 2 Bathroom: 3 bed, 2 bath. Price: $789/bed per month, $2367/month total. Availability: Available now. Area: Quad View. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/45437575-688e-405d-8790-11843c20260d"
   },
   {
     "company": "Smile Student Living",
@@ -2645,7 +2645,7 @@
     "area": "Quad View",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "3 Bedroom 3 Bath",
+    "unit_type": "3 Bedroom 3 Bathroom",
     "beds": "3",
     "baths": "3",
     "sqft": "1058",
@@ -2661,7 +2661,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1109984,
     "lng": -88.2290655,
-    "text": "615 S Wright, Champaign. 3 Bedroom 3 Bath: 3 bed, 3 bath. Price: $1069/bed per month, $3207/month total. Availability: Available August 19, 2027. Area: Quad View. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/ad55a4f9-d94d-4bca-8be8-338672231a3e"
+    "text": "615 S Wright, Champaign. 3 Bedroom 3 Bathroom: 3 bed, 3 bath. Price: $1069/bed per month, $3207/month total. Availability: Available August 19, 2027. Area: Quad View. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/ad55a4f9-d94d-4bca-8be8-338672231a3e"
   },
   {
     "company": "Smile Student Living",
@@ -2669,7 +2669,7 @@
     "area": "Quad View",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "4 Bedroom 2 Bath - Mid Floor (5th)",
+    "unit_type": "4 Bedroom 2 Bathroom - Mid Floor (5th)",
     "beds": "4",
     "baths": "2",
     "sqft": "1207",
@@ -2685,7 +2685,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1109984,
     "lng": -88.2290655,
-    "text": "615 S Wright, Champaign. 4 Bedroom 2 Bath - Mid Floor (5th): 4 bed, 2 bath. Price: $879/bed per month, $3516/month total. Availability: Available August 19, 2027. Area: Quad View. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/b0f4790e-15de-4980-bf34-013eeb2e2e2f"
+    "text": "615 S Wright, Champaign. 4 Bedroom 2 Bathroom - Mid Floor (5th): 4 bed, 2 bath. Price: $879/bed per month, $3516/month total. Availability: Available August 19, 2027. Area: Quad View. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/b0f4790e-15de-4980-bf34-013eeb2e2e2f"
   },
   {
     "company": "Smile Student Living",
@@ -2693,7 +2693,7 @@
     "area": "Quad View",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "4 Bedroom 3 Bath - Mid Floor (4th-5th)",
+    "unit_type": "4 Bedroom 3 Bathroom - Mid Floor (4th-5th)",
     "beds": "4",
     "baths": "3",
     "sqft": "1051",
@@ -2709,7 +2709,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1109984,
     "lng": -88.2290655,
-    "text": "615 S Wright, Champaign. 4 Bedroom 3 Bath - Mid Floor (4th-5th): 4 bed, 3 bath. Price: $949/bed per month, $3796/month total. Availability: Available August 19, 2027. Area: Quad View. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/80ab1680-82f8-4f79-b7fa-628e2e6bdf26"
+    "text": "615 S Wright, Champaign. 4 Bedroom 3 Bathroom - Mid Floor (4th-5th): 4 bed, 3 bath. Price: $949/bed per month, $3796/month total. Availability: Available August 19, 2027. Area: Quad View. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/80ab1680-82f8-4f79-b7fa-628e2e6bdf26"
   },
   {
     "company": "Smile Student Living",
@@ -2717,7 +2717,7 @@
     "area": "Art District",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "1 Bedroom w/ Study",
+    "unit_type": "1 Bedroom 1 Bathroom w/ Study",
     "beds": "1",
     "baths": "1",
     "sqft": "573",
@@ -2733,7 +2733,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1096814,
     "lng": -88.2184257,
-    "text": "804 W Illinois Street, Urbana. 1 Bedroom w/ Study: 1 bed, 1 bath. Price: $1329/bed per month, $1329/month total. Availability: Available August 17, 2027. Area: Art District. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/2215704e-e3bf-4dc2-9907-215a26d6863b"
+    "text": "804 W Illinois Street, Urbana. 1 Bedroom 1 Bathroom w/ Study: 1 bed, 1 bath. Price: $1329/bed per month, $1329/month total. Availability: Available August 17, 2027. Area: Art District. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/2215704e-e3bf-4dc2-9907-215a26d6863b"
   },
   {
     "company": "Smile Student Living",
@@ -2765,7 +2765,7 @@
     "area": "Art District",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "2 Bedroom 2 Bath",
+    "unit_type": "2 Bedroom 2 Bathroom",
     "beds": "2",
     "baths": "2",
     "sqft": "696",
@@ -2781,7 +2781,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1096814,
     "lng": -88.2184257,
-    "text": "804 W Illinois Street, Urbana. 2 Bedroom 2 Bath: 2 bed, 2 bath. Price: $829/bed per month, $1658/month total. Availability: Available August 17, 2027. Area: Art District. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/eefae600-ec50-4771-9e0f-1e47e5ecd925"
+    "text": "804 W Illinois Street, Urbana. 2 Bedroom 2 Bathroom: 2 bed, 2 bath. Price: $829/bed per month, $1658/month total. Availability: Available August 17, 2027. Area: Art District. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/eefae600-ec50-4771-9e0f-1e47e5ecd925"
   },
   {
     "company": "Smile Student Living",
@@ -2789,7 +2789,7 @@
     "area": "Art District",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "1 Bedroom 1 Bath - First Floor",
+    "unit_type": "1 Bedroom 1 Bathroom - First Floor",
     "beds": "1",
     "baths": "1",
     "sqft": "344",
@@ -2805,7 +2805,7 @@
     "utility_fees": "Water, Sewer, Recycling, Internet, Trash Service",
     "lat": 40.1103453,
     "lng": -88.2185513,
-    "text": "805 W Green Street, Urbana. 1 Bedroom 1 Bath - First Floor: 1 bed, 1 bath. Price: $1039/bed per month, $1039/month total. Availability: Available now. Area: Art District. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/83ae41b5-e97b-4020-bb53-8085c0894b47"
+    "text": "805 W Green Street, Urbana. 1 Bedroom 1 Bathroom - First Floor: 1 bed, 1 bath. Price: $1039/bed per month, $1039/month total. Availability: Available now. Area: Art District. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/83ae41b5-e97b-4020-bb53-8085c0894b47"
   },
   {
     "company": "Smile Student Living",
@@ -2813,7 +2813,7 @@
     "area": "Art District",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "1 Bedroom 1 Bath - Upper Floors",
+    "unit_type": "1 Bedroom 1 Bathroom - Upper Floors",
     "beds": "1",
     "baths": "1",
     "sqft": "344",
@@ -2829,7 +2829,7 @@
     "utility_fees": "Internet, Water, Sewer, Trash Service, Recycling",
     "lat": 40.1103453,
     "lng": -88.2185513,
-    "text": "805 W Green Street, Urbana. 1 Bedroom 1 Bath - Upper Floors: 1 bed, 1 bath. Price: $1049/bed per month, $1049/month total. Availability: Available August 17, 2027. Area: Art District. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/f67e11f6-b435-4250-8f83-b0d88694a534"
+    "text": "805 W Green Street, Urbana. 1 Bedroom 1 Bathroom - Upper Floors: 1 bed, 1 bath. Price: $1049/bed per month, $1049/month total. Availability: Available August 17, 2027. Area: Art District. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/f67e11f6-b435-4250-8f83-b0d88694a534"
   },
   {
     "company": "Smile Student Living",
@@ -2837,7 +2837,7 @@
     "area": "Gradland",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "4 Bedroom 1.5 Bath",
+    "unit_type": "4 Bedroom 1.5 Bathroom",
     "beds": "4",
     "baths": "1.5",
     "sqft": "940",
@@ -2853,7 +2853,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1125537,
     "lng": -88.2186809,
-    "text": "809 W Springfield, Urbana. 4 Bedroom 1.5 Bath: 4 bed, 1.5 bath. Price: $399/bed per month, $1596/month total. Availability: Available August 17, 2027. Area: Gradland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/496ff9e2-c664-4d81-ab5a-56b6fe24b168"
+    "text": "809 W Springfield, Urbana. 4 Bedroom 1.5 Bathroom: 4 bed, 1.5 bath. Price: $399/bed per month, $1596/month total. Availability: Available August 17, 2027. Area: Gradland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/496ff9e2-c664-4d81-ab5a-56b6fe24b168"
   },
   {
     "company": "Smile Student Living",
@@ -2861,7 +2861,7 @@
     "area": "Gradland",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "4 Bedroom 2 Bath - First Floor",
+    "unit_type": "4 Bedroom 2 Bathroom - First Floor",
     "beds": "4",
     "baths": "2",
     "sqft": "940",
@@ -2877,7 +2877,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1125537,
     "lng": -88.2186809,
-    "text": "809 W Springfield, Urbana. 4 Bedroom 2 Bath - First Floor: 4 bed, 2 bath. Price: $409/bed per month, $1636/month total. Availability: Available August 17, 2027. Area: Gradland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/360db0e4-3cd7-48fc-8385-61587b929f51"
+    "text": "809 W Springfield, Urbana. 4 Bedroom 2 Bathroom - First Floor: 4 bed, 2 bath. Price: $409/bed per month, $1636/month total. Availability: Available August 17, 2027. Area: Gradland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/360db0e4-3cd7-48fc-8385-61587b929f51"
   },
   {
     "company": "Smile Student Living",
@@ -2885,7 +2885,7 @@
     "area": "Gradland",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "2 Bedroom 1 Bath - First Floor",
+    "unit_type": "2 Bedroom 1 Bathroom - First Floor",
     "beds": "2",
     "baths": "1",
     "sqft": "678",
@@ -2901,7 +2901,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1133512,
     "lng": -88.2189956,
-    "text": "809 W Stoughton, Urbana. 2 Bedroom 1 Bath - First Floor: 2 bed, 1 bath. Price: $679/bed per month, $1358/month total. Availability: Available August 17, 2027. Area: Gradland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/d24b7110-6b95-48a5-8cb1-ad33b8e987e8"
+    "text": "809 W Stoughton, Urbana. 2 Bedroom 1 Bathroom - First Floor: 2 bed, 1 bath. Price: $679/bed per month, $1358/month total. Availability: Available August 17, 2027. Area: Gradland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/d24b7110-6b95-48a5-8cb1-ad33b8e987e8"
   },
   {
     "company": "Smile Student Living",
@@ -2909,7 +2909,7 @@
     "area": "Gradland",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "4 Bedroom 1.5 Bath",
+    "unit_type": "4 Bedroom 1.5 Bathroom",
     "beds": "4",
     "baths": "1.5",
     "sqft": "941",
@@ -2925,7 +2925,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1133512,
     "lng": -88.2189956,
-    "text": "809 W Stoughton, Urbana. 4 Bedroom 1.5 Bath: 4 bed, 1.5 bath. Price: $479/bed per month, $1916/month total. Availability: Available August 17, 2027. Area: Gradland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/c0d30970-883d-4438-9370-b2f2218ea454"
+    "text": "809 W Stoughton, Urbana. 4 Bedroom 1.5 Bathroom: 4 bed, 1.5 bath. Price: $479/bed per month, $1916/month total. Availability: Available August 17, 2027. Area: Gradland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/c0d30970-883d-4438-9370-b2f2218ea454"
   },
   {
     "company": "Smile Student Living",
@@ -2933,7 +2933,7 @@
     "area": "Gradland",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "4 Bedroom 2 Bath - First Floor",
+    "unit_type": "4 Bedroom 2 Bathroom - First Floor",
     "beds": "4",
     "baths": "2",
     "sqft": "960",
@@ -2949,7 +2949,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1133512,
     "lng": -88.2189956,
-    "text": "809 W Stoughton, Urbana. 4 Bedroom 2 Bath - First Floor: 4 bed, 2 bath. Price: $499/bed per month, $1996/month total. Availability: Available August 17, 2027. Area: Gradland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/899646af-4239-4a82-ac7b-082ad48147c5"
+    "text": "809 W Stoughton, Urbana. 4 Bedroom 2 Bathroom - First Floor: 4 bed, 2 bath. Price: $499/bed per month, $1996/month total. Availability: Available August 17, 2027. Area: Gradland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/899646af-4239-4a82-ac7b-082ad48147c5"
   },
   {
     "company": "Smile Student Living",
@@ -2957,7 +2957,7 @@
     "area": "Art District",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "1 Bedroom 1 Bath w/ Study",
+    "unit_type": "1 Bedroom 1 Bathroom w/ Study",
     "beds": "1",
     "baths": "1",
     "sqft": "560",
@@ -2973,7 +2973,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1067092,
     "lng": -88.2189195,
-    "text": "812 W Nevada Street, Urbana. 1 Bedroom 1 Bath w/ Study: 1 bed, 1 bath. Price: $1459/bed per month, $1459/month total. Availability: Available August 17, 2027. Area: Art District. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/aabd6af2-1cf5-4491-911a-882425809318"
+    "text": "812 W Nevada Street, Urbana. 1 Bedroom 1 Bathroom w/ Study: 1 bed, 1 bath. Price: $1459/bed per month, $1459/month total. Availability: Available August 17, 2027. Area: Art District. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/aabd6af2-1cf5-4491-911a-882425809318"
   },
   {
     "company": "Smile Student Living",
@@ -2981,7 +2981,7 @@
     "area": "Art District",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "3 Bedroom 3 Bath",
+    "unit_type": "3 Bedroom 3 Bathroom",
     "beds": "3",
     "baths": "3",
     "sqft": "943",
@@ -2997,7 +2997,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1067092,
     "lng": -88.2189195,
-    "text": "812 W Nevada Street, Urbana. 3 Bedroom 3 Bath: 3 bed, 3 bath. Price: $789/bed per month, $2367/month total. Availability: Available August 17, 2027. Area: Art District. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/c2f0aabb-f77f-4e39-b6f3-4bd3895ccd01"
+    "text": "812 W Nevada Street, Urbana. 3 Bedroom 3 Bathroom: 3 bed, 3 bath. Price: $789/bed per month, $2367/month total. Availability: Available August 17, 2027. Area: Art District. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/c2f0aabb-f77f-4e39-b6f3-4bd3895ccd01"
   },
   {
     "company": "Smile Student Living",
@@ -3005,7 +3005,7 @@
     "area": "Gradland",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "2 Bedroom 1 Bath - First Floor",
+    "unit_type": "2 Bedroom 1 Bathroom - First Floor",
     "beds": "2",
     "baths": "1",
     "sqft": "580",
@@ -3021,7 +3021,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1125171,
     "lng": -88.218962,
-    "text": "813 W Springfield, Urbana. 2 Bedroom 1 Bath - First Floor: 2 bed, 1 bath. Price: $579/bed per month, $1158/month total. Availability: Available August 17, 2027. Area: Gradland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/2d356cde-82f8-460f-a1f0-d661ec3b536d"
+    "text": "813 W Springfield, Urbana. 2 Bedroom 1 Bathroom - First Floor: 2 bed, 1 bath. Price: $579/bed per month, $1158/month total. Availability: Available August 17, 2027. Area: Gradland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/2d356cde-82f8-460f-a1f0-d661ec3b536d"
   },
   {
     "company": "Smile Student Living",
@@ -3029,7 +3029,7 @@
     "area": "Gradland",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "3 Bedroom 1 Bath",
+    "unit_type": "3 Bedroom 1 Bathroom",
     "beds": "3",
     "baths": "1",
     "sqft": "688",
@@ -3045,7 +3045,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1125171,
     "lng": -88.218962,
-    "text": "813 W Springfield, Urbana. 3 Bedroom 1 Bath: 3 bed, 1 bath. Price: $439/bed per month, $1317/month total. Availability: Available August 17, 2027. Area: Gradland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/bb69b6e5-57e3-437b-a8f5-28ab2d91d8c3"
+    "text": "813 W Springfield, Urbana. 3 Bedroom 1 Bathroom: 3 bed, 1 bath. Price: $439/bed per month, $1317/month total. Availability: Available August 17, 2027. Area: Gradland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/bb69b6e5-57e3-437b-a8f5-28ab2d91d8c3"
   },
   {
     "company": "Smile Student Living",
@@ -3053,7 +3053,7 @@
     "area": "Seniorland",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "3 Bedroom 2.5 Bath",
+    "unit_type": "3 Bedroom 2.5 Bathroom",
     "beds": "3",
     "baths": "2.5",
     "sqft": "886",
@@ -3069,7 +3069,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1075227,
     "lng": -88.2406977,
-    "text": "903 S Locust Street, Champaign. 3 Bedroom 2.5 Bath: 3 bed, 2.5 bath. Price: $699/bed per month, $2097/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/87211cbc-b22e-4dbb-92aa-6dd8d644ae7d"
+    "text": "903 S Locust Street, Champaign. 3 Bedroom 2.5 Bathroom: 3 bed, 2.5 bath. Price: $699/bed per month, $2097/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/87211cbc-b22e-4dbb-92aa-6dd8d644ae7d"
   },
   {
     "company": "Smile Student Living",
@@ -3077,7 +3077,7 @@
     "area": "Seniorland",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "3 Bedroom 3 Bath",
+    "unit_type": "3 Bedroom 3 Bathroom",
     "beds": "3",
     "baths": "3",
     "sqft": "886",
@@ -3093,31 +3093,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1075227,
     "lng": -88.2406977,
-    "text": "903 S Locust Street, Champaign. 3 Bedroom 3 Bath: 3 bed, 3 bath. Price: $739/bed per month, $2217/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/5d32145f-a3ae-4e36-afc8-53e9fe13c459"
-  },
-  {
-    "company": "Smile Student Living",
-    "address": "905 W Oregon, Urbana",
-    "area": "Art District",
-    "property_type": "Apartment",
-    "roommate_match": false,
-    "unit_type": "1 x 1 (really a 3x1) FIRST FLOOR UNITS",
-    "beds": "1",
-    "baths": "1",
-    "sqft": "694",
-    "price_total": "1167",
-    "price_per_bed": "1167",
-    "availability": "Available August 17, 2027",
-    "url": "https://fairlawn.appfolio.com/listings/detail/f418adf5-8b84-4525-babd-81f485cd2154",
-    "photo_url": "https://images.cdn.appfolio.com/fairlawn/images/d7c8ef52-3767-4d35-84ec-dbb8d08e964d/medium.png",
-    "availability_summary": "Available August 2027",
-    "tagline": "Spacious 1-Bedroom + Office Apartments near Krannert! Text to tour 217-858-4815",
-    "description": "905 Oregon features spacious 1-bedroom apartments in the perfect location near Krannert, the Main Quad, and dining & shopping options on Gregory! The property also offers fully covered parking spots in the underground lot below the building. Fully furnished with stainless steel kitchen appliances, this place has everything you need to call home! A monthly utility and service fee of $180 covers internet, water, sewer, trash service, and recycling! Pets welcome! See our Leasing FAQ! Leased parking is available! Income Requirement Waived for UIUC Students! Co-Signer Not Required for Qualified Applicants! Low admin fee or security deposit equal to 1-month rent installment \u2013 you choose!",
-    "amenities": "Laundry Facilities On-site, Private Patio Or Balcony, 24-Hour Emergency Maintenance, Income Requirement Waived for UIUC Students, Co-Signer Not Required, Low admin fee or security deposit \u2013 you choose!, Pet-Friendly, Close to Krannert, Access to The Flamingo (Smile's Fitness Center/Study Rooms/Resident Lounge), Covered Parking - Available for Lease, Most utilities included with one monthly fee",
-    "utility_fees": "Water, Internet, Trash Service, Recycling, Sewer",
-    "lat": 40.1066998,
-    "lng": -88.2199192,
-    "text": "905 W Oregon, Urbana. 1 x 1 (really a 3x1) FIRST FLOOR UNITS: 1 bed, 1 bath. Price: $1167/bed per month, $1167/month total. Availability: Available August 17, 2027. Area: Art District. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/f418adf5-8b84-4525-babd-81f485cd2154"
+    "text": "903 S Locust Street, Champaign. 3 Bedroom 3 Bathroom: 3 bed, 3 bath. Price: $739/bed per month, $2217/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/5d32145f-a3ae-4e36-afc8-53e9fe13c459"
   },
   {
     "company": "Smile Student Living",
@@ -3125,7 +3101,7 @@
     "area": "Art District",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "3 Bedroom 1 Bath - Upper Floors",
+    "unit_type": "3 Bedroom 1 Bathroom - Upper Floors",
     "beds": "3",
     "baths": "1",
     "sqft": "694",
@@ -3141,7 +3117,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet",
     "lat": 40.1066998,
     "lng": -88.2199192,
-    "text": "905 W Oregon, Urbana. 3 Bedroom 1 Bath - Upper Floors: 3 bed, 1 bath. Price: $399/bed per month, $1197/month total. Availability: Available August 17, 2027. Area: Art District. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/777a5478-593d-456d-acec-24664b22e1da"
+    "text": "905 W Oregon, Urbana. 3 Bedroom 1 Bathroom - Upper Floors: 3 bed, 1 bath. Price: $399/bed per month, $1197/month total. Availability: Available August 17, 2027. Area: Art District. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/777a5478-593d-456d-acec-24664b22e1da"
   },
   {
     "company": "Smile Student Living",
@@ -3149,7 +3125,7 @@
     "area": "Art District",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "4 Bedroom 2 Bath",
+    "unit_type": "4 Bedroom 2 Bathroom",
     "beds": "4",
     "baths": "2",
     "sqft": "883",
@@ -3165,7 +3141,31 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet",
     "lat": 40.1066998,
     "lng": -88.2199192,
-    "text": "905 W Oregon, Urbana. 4 Bedroom 2 Bath: 4 bed, 2 bath. Price: $429/bed per month, $1716/month total. Availability: Available August 17, 2027. Area: Art District. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/42a5b85c-d731-443f-914f-571b19a6f290"
+    "text": "905 W Oregon, Urbana. 4 Bedroom 2 Bathroom: 4 bed, 2 bath. Price: $429/bed per month, $1716/month total. Availability: Available August 17, 2027. Area: Art District. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/42a5b85c-d731-443f-914f-571b19a6f290"
+  },
+  {
+    "company": "Smile Student Living",
+    "address": "905 W Oregon, Urbana",
+    "area": "Art District",
+    "property_type": "Apartment",
+    "roommate_match": false,
+    "unit_type": "OLD - 1 x 1 (really a 3x1) FIRST FLOOR UNITS",
+    "beds": "1",
+    "baths": "1",
+    "sqft": "694",
+    "price_total": "1167",
+    "price_per_bed": "1167",
+    "availability": "Available August 17, 2027",
+    "url": "https://fairlawn.appfolio.com/listings/detail/f418adf5-8b84-4525-babd-81f485cd2154",
+    "photo_url": "https://images.cdn.appfolio.com/fairlawn/images/d7c8ef52-3767-4d35-84ec-dbb8d08e964d/medium.png",
+    "availability_summary": "Available August 2027",
+    "tagline": "Spacious 1-Bedroom + Office Apartments near Krannert! Text to tour 217-858-4815",
+    "description": "905 Oregon features spacious 1-bedroom apartments in the perfect location near Krannert, the Main Quad, and dining & shopping options on Gregory! The property also offers fully covered parking spots in the underground lot below the building. Fully furnished with stainless steel kitchen appliances, this place has everything you need to call home! A monthly utility and service fee of $180 covers internet, water, sewer, trash service, and recycling! Pets welcome! See our Leasing FAQ! Leased parking is available! Income Requirement Waived for UIUC Students! Co-Signer Not Required for Qualified Applicants! Low admin fee or security deposit equal to 1-month rent installment \u2013 you choose!",
+    "amenities": "Laundry Facilities On-site, Private Patio Or Balcony, 24-Hour Emergency Maintenance, Income Requirement Waived for UIUC Students, Co-Signer Not Required, Low admin fee or security deposit \u2013 you choose!, Pet-Friendly, Close to Krannert, Access to The Flamingo (Smile's Fitness Center/Study Rooms/Resident Lounge), Covered Parking - Available for Lease, Most utilities included with one monthly fee",
+    "utility_fees": "Water, Internet, Trash Service, Recycling, Sewer",
+    "lat": 40.1066998,
+    "lng": -88.2199192,
+    "text": "905 W Oregon, Urbana. OLD - 1 x 1 (really a 3x1) FIRST FLOOR UNITS: 1 bed, 1 bath. Price: $1167/bed per month, $1167/month total. Availability: Available August 17, 2027. Area: Art District. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/f418adf5-8b84-4525-babd-81f485cd2154"
   },
   {
     "company": "Smile Student Living",
@@ -3173,7 +3173,7 @@
     "area": "Art District",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "2 Bedroom 1 Bath - Upper Floors",
+    "unit_type": "2 Bedroom 1 Bathroom - Upper Floors",
     "beds": "2",
     "baths": "1",
     "sqft": "566",
@@ -3189,7 +3189,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet",
     "lat": 40.1067218,
     "lng": -88.2201355,
-    "text": "907 W Oregon, Urbana. 2 Bedroom 1 Bath - Upper Floors: 2 bed, 1 bath. Price: $570/bed per month, $1140/month total. Availability: Available August 17, 2027. Area: Art District. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/0de23588-de13-4933-b5f7-dcba20bb5185"
+    "text": "907 W Oregon, Urbana. 2 Bedroom 1 Bathroom - Upper Floors: 2 bed, 1 bath. Price: $570/bed per month, $1140/month total. Availability: Available August 17, 2027. Area: Art District. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/0de23588-de13-4933-b5f7-dcba20bb5185"
   },
   {
     "company": "Smile Student Living",
@@ -3197,7 +3197,7 @@
     "area": "Art District",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "3 Bedroom 1 Bath",
+    "unit_type": "3 Bedroom 1 Bathroom",
     "beds": "3",
     "baths": "1",
     "sqft": "706",
@@ -3213,7 +3213,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet",
     "lat": 40.1067218,
     "lng": -88.2201355,
-    "text": "907 W Oregon, Urbana. 3 Bedroom 1 Bath: 3 bed, 1 bath. Price: $430/bed per month, $1290/month total. Availability: Available August 17, 2027. Area: Art District. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/f42194e7-9ffd-4ef9-ac29-b25e63d9d73c"
+    "text": "907 W Oregon, Urbana. 3 Bedroom 1 Bathroom: 3 bed, 1 bath. Price: $430/bed per month, $1290/month total. Availability: Available August 17, 2027. Area: Art District. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/f42194e7-9ffd-4ef9-ac29-b25e63d9d73c"
   },
   {
     "company": "Smile Student Living",
@@ -3221,7 +3221,7 @@
     "area": "Seniorland",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "3 Bedroom 2.5 Bath",
+    "unit_type": "3 Bedroom 2.5 Bathroom",
     "beds": "3",
     "baths": "2.5",
     "sqft": "886",
@@ -3237,7 +3237,7 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1070406,
     "lng": -88.2406799,
-    "text": "909 S Locust Street, Champaign. 3 Bedroom 2.5 Bath: 3 bed, 2.5 bath. Price: $699/bed per month, $2097/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/eeeb5d47-825f-46ff-8078-9d5324587d88"
+    "text": "909 S Locust Street, Champaign. 3 Bedroom 2.5 Bathroom: 3 bed, 2.5 bath. Price: $699/bed per month, $2097/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/eeeb5d47-825f-46ff-8078-9d5324587d88"
   },
   {
     "company": "Smile Student Living",
@@ -3245,7 +3245,7 @@
     "area": "Seniorland",
     "property_type": "Apartment",
     "roommate_match": true,
-    "unit_type": "3 Bedroom 3 Bath",
+    "unit_type": "3 Bedroom 3 Bathroom",
     "beds": "3",
     "baths": "3",
     "sqft": "886",
@@ -3261,6 +3261,6 @@
     "utility_fees": "Water, Sewer, Trash Service, Recycling, Internet, Electricity \u2013 See Utility Addendum \u2013 All-Inclusive",
     "lat": 40.1070406,
     "lng": -88.2406799,
-    "text": "909 S Locust Street, Champaign. 3 Bedroom 3 Bath: 3 bed, 3 bath. Price: $739/bed per month, $2217/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/63b8cb0c-572d-47ca-8cd2-0949f53b7218"
+    "text": "909 S Locust Street, Champaign. 3 Bedroom 3 Bathroom: 3 bed, 3 bath. Price: $739/bed per month, $2217/month total. Availability: Available August 20, 2027. Area: Seniorland. Company: Smile Student Living. Link: https://fairlawn.appfolio.com/listings/detail/63b8cb0c-572d-47ca-8cd2-0949f53b7218"
   }
 ]
